@@ -2,11 +2,7 @@
     "urls": [
         {
             "url": "",
-            "name": "多仓[25/02/14巡查]版28"
-        },
-        {
-            "url": "",
-            "name": "若失效到tvbox.uno留言"
+            "name": "多仓整合[25/02/18]"
         },
         {
             "url": "http://etaishun.com/m3u8/hzm.json",
@@ -15,10 +11,6 @@
         {
             "url": "http://我不是.摸鱼儿.com",
             "name": "摸鱼儿（2.10） [在线]"
-        },
-        {
-            "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/DEMO.json",
-            "name": "摸鱼儿（new） [在线]"
         },
         {
             "url": "http://etaishun.com/m3u8/dm84.json",
