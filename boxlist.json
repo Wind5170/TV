@@ -9,12 +9,28 @@
             "name": "box189欧歌"
         },
         {
+            "url": "",
+            "name": "多仓[25/02/19新增]版30"
+        },
+        {
+            "url": "",
+            "name": "若失效到tvbox.uno留言"
+        },
+        {
             "url": "http://etaishun.com/m3u8/hzm.json",
             "name": "盒子迷（快） [在线]"
         },
         {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬（2.18） [在线]"
+        },
+        {
             "url": "http://我不是.摸鱼儿.com",
-            "name": "摸鱼儿（2.10） [在线]"
+            "name": "摸鱼儿（2.18） [在线]"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "放牛娃（2.18） [在线]"
         },
         {
             "url": "http://etaishun.com/m3u8/dm84.json",
@@ -53,8 +69,8 @@
             "name": "小马线路（2.14） [在线]"
         },
         {
-            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
-            "name": "欧歌线路1（2.10） [在线]"
+            "url": "https://xn--ie2-mf3g9f.u.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv",
+            "name": "欧歌线路1（2.19） [在线]"
         },
         {
             "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
@@ -65,8 +81,8 @@
             "name": "挺好接口（2.10） [在线]"
         },
         {
-            "url": "http://TV.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
-            "name": "欧歌线路2（2.10） [在线]"
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "玩盒线路（2.19） [在线]"
         },
         {
             "url": "http://ok321.top/tv",
@@ -120,6 +136,7 @@
             "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
             "name": "青龙线路（2.10） [在线]"
         },
+
 {"name":"TV直播自用","url":"https://ghfast.top/https://raw.githubusercontent.com/Wind5170/collect-tv-txt/main/live.m3u"}
     ]
 }
