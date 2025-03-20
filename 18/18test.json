@@ -1,0 +1,49 @@
+{
+"sites":[
+
+    {
+      "key": "❤色猫资源",
+      "name": "❤色猫资源",
+      "type": 1,"viewType": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+{"key":"芊芊视频🔞","name":"🔞芊芊视频","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+    "首页": "骑兵一",
+    "请求头": "手机",
+    "编码": "gb2312",
+    "数组": "<a class=\"ui-pic&&</a",
+    "图片": "src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "ui-type\">&&</span>",
+    "链接": "href=\"&&\"",
+    "简介": "description\"><p>&&</p",
+    "线路数组": "class=\"intro\">&&</h1",
+    "线路标题": "<h1>&&<",
+    "播放数组": "<div class=\"playlist&&</div",
+    "播放列表": "<li>&&</li",
+    "播放标题": ">&&</a",
+    "播放链接": "href='&&'",
+    "搜索数组": "<a class=\"ui-pic&&</a",
+    "搜索图片": "src=\"&&\"",
+    "搜索标题": "title=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1",
+    "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]",
+    "分类": "视频一$26#视频二$22#视频三$23#视频四$32#视频五$36#视频六$37#字幕一$27#字幕二$28#骑兵一$17#骑兵二$33#步兵区$24#欧美区$29#主播一$31#主播二$34#H动漫$25#水果派$35#原创一$30#原创二$38"
+},"jar":"https://my5353.com/xyqxbpq"},
+
+
+
+
+
+
+
+
+
+
+{"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
+],
