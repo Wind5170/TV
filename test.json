@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
 "urls":[
 {"name":"lgz","url":"https://raw.gitmirror.com/Wind5170/TV/master/18/lgz.json"},
@@ -7,13 +6,3 @@
 {"name":"18test","url":"https://raw.gitmirror.com/Wind5170/TV/master/18/18test.json"}
 ]
 }
-=======
-{
-"urls":[
-{"name":"lgz","url":"https://raw.gitmirror.com/Wind5170/TV/master/18/lgz.json"},
-{"name":"蜂蜜qu.ax-uanw","url":"https://raw.gitmirror.com/Wind5170/TV/master/18/qu.ax-uanw.json"},
-{"name":"刘伟jjzx","url":"https://raw.gitmirror.com/Wind5170/TV/master/18/jjzx.json"},
-{"name":"18test","url":"https://raw.gitmirror.com/Wind5170/TV/master/18/18test.json"}
-]
-}
->>>>>>> 8127c130a45685d403a4db21c94fceb7d8baaa9e

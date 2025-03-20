@@ -1,5 +1,7 @@
-{
-"sites":[
+{"sites":
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742157952185/f0317.txt;md5;a0e22e79a8fed34ecb3b1f09399f4f50",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+[
 
     {
       "key": "❤色猫资源",
@@ -36,6 +38,65 @@
     "分类": "视频一$26#视频二$22#视频三$23#视频四$32#视频五$36#视频六$37#字幕一$27#字幕二$28#骑兵一$17#骑兵二$33#步兵区$24#欧美区$29#主播一$31#主播二$34#H动漫$25#水果派$35#原创一$30#原创二$38"
 },"jar":"https://my5353.com/xyqxbpq"},
 
+       {
+            "key": "csp_XYBQ",
+            "name": "🔞比卡|比卡",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/h/比卡比卡.json"
+        },
+{
+    "key": "玩偶妹妹",
+    "name": "玩偶妹妹",
+    "type": 3,
+    "api": "csp_XBPQ",
+   "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+    "ext": {
+        "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
+        "直接播放": "1",
+        //"数组": "class=\"thumb\"&&</div>",
+       // "图片": "src=\"&&\"",
+       //"标题": "title=\"&&\"",
+        //"链接": "href=\"&&\"",
+     //   "简介": "span.desc&&",
+    //    "主演": "",
+        "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
+        "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
+    }
+},
+
+
+	{
+            "key": "csp_XBPQ_yyxl",
+            "name": "🔞夜夜新郎",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
+        },
+		
+        { "key": "手鸡助手", "name": "🔞手鸡助手", "type":3,"api":"csp_XBPQ","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", "ext":{"请求头": "手机",  "直接播放": "1",
+   "分类url":"https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}",
+    "分类":"日韩有码$480#日韩无码$481#中文字幕$483#AV解说$485#欧美情色$482#国产情色$479#网红主播$484#卡通动漫$1505","播放标题": "<h1&&</h1>",
+    "搜索url":"https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}"
+}},
+
+{ "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
+{"key":"滴滴资源","name":"滴滴资源","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
+
+
+
 
 
 
@@ -47,3 +108,7 @@
 
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
 ],
+
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"
+  ],
+}
