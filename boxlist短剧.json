@@ -1,0 +1,8 @@
+{
+"urls":[
+{"name":"短剧合集","url":""},
+{"name":"短剧接口1","url":"http://box.ufuzi.com/tv/qq/短剧频道/api.json"},
+{"name":"短剧接口2","url":"https://play.iptv365.org/短剧频道/api.json"},
+{"name":"短剧接口3","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"}
+]
+}
