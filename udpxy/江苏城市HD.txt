@@ -28,3 +28,19 @@
 江苏城市HD,http://www.wxzmz.com:8800/rtp/239.49.8.107:8000
 江苏城市HD,http://www.sxxhhy.top:8888/rtp/239.49.8.107:8000
 江苏城市HD,http://kouki.pro:8888/rtp/239.49.8.107:8000
+CHC家庭影院 HD,http://jason.25u.com:40222/rtp/239.81.0.238:4056
+CHC动作电影 HD,http://jason.25u.com:40222/rtp/239.81.0.239:4056
+CHC高清电影 HD,http://jason.25u.com:40222/rtp/239.81.0.240:4056
+晴彩影视高清,http://jason.25u.com:40222/rtp/239.81.0.152:4056
+求索记录,http://jason.25u.com:40222/rtp/239.81.0.153:4056
+翡翠台,http://gdyd.7259.cc.cd:4014/rtp/239.77.1.107:5146
+明珠台,http://gdyd.7259.cc.cd:4014/rtp/239.77.1.189:5146
+翡翠台,http://home.8v8.fun:4333/rtp/239.77.1.107:5146
+明珠台,http://home.8v8.fun:4333/rtp/239.77.1.189:5146
+翡翠台,http://line1.huase.ltd:8888/rtp/239.77.1.107:5146
+明珠台,http://line1.huase.ltd:8888/rtp/239.77.1.189:5146
+翡翠台,http://udp2.gdsz.eu.org:8888/rtp/239.77.1.107:5146
+明珠台,http://udp2.gdsz.eu.org:8888/rtp/239.77.1.189:5146
+CHC家庭影院 HD,http://jason.25u.com:40222/rtp/239.81.0.238:4056
+CHC动作电影 HD,http://jason.25u.com:40222/rtp/239.81.0.239:4056
+CHC高清电影 HD,http://jason.25u.com:40222/rtp/239.81.0.240:4056
