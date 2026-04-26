@@ -226,7 +226,6 @@ CCTV16-SDR,http://dx.joygala.cn:8118/rtp/239.49.0.109:8000
 好享购物,http://dx.joygala.cn:8118/rtp/239.49.0.103:8000
 中学生,http://dx.joygala.cn:8118/rtp/239.49.1.82:8000
 
-江苏地方,#genre#
 南京新闻综合,http://dx.joygala.cn:8118/rtp/239.49.0.25:8192
 南京影视,http://dx.joygala.cn:8118/rtp/239.49.0.24:8000
 南京教科,http://dx.joygala.cn:8118/rtp/239.49.0.183:9434
@@ -568,7 +567,6 @@ CCTV16-SDR,http://202.8090pc.cn:58888/rtp/239.49.0.109:8000
 好享购物,http://202.8090pc.cn:58888/rtp/239.49.0.103:8000
 中学生,http://202.8090pc.cn:58888/rtp/239.49.1.82:8000
 
-江苏地方,#genre#
 南京新闻综合,http://202.8090pc.cn:58888/rtp/239.49.0.25:8192
 南京影视,http://202.8090pc.cn:58888/rtp/239.49.0.24:8000
 南京教科,http://202.8090pc.cn:58888/rtp/239.49.0.183:9434
@@ -910,7 +908,6 @@ CCTV16-SDR,http://j1900.silicaite.top:58888/rtp/239.49.0.109:8000
 好享购物,http://j1900.silicaite.top:58888/rtp/239.49.0.103:8000
 中学生,http://j1900.silicaite.top:58888/rtp/239.49.1.82:8000
 
-江苏地方,#genre#
 南京新闻综合,http://j1900.silicaite.top:58888/rtp/239.49.0.25:8192
 南京影视,http://j1900.silicaite.top:58888/rtp/239.49.0.24:8000
 南京教科,http://j1900.silicaite.top:58888/rtp/239.49.0.183:9434
@@ -1252,7 +1249,6 @@ CCTV16-SDR,http://j1900.silicaite.com:58888/rtp/239.49.0.109:8000
 好享购物,http://j1900.silicaite.com:58888/rtp/239.49.0.103:8000
 中学生,http://j1900.silicaite.com:58888/rtp/239.49.1.82:8000
 
-江苏地方,#genre#
 南京新闻综合,http://j1900.silicaite.com:58888/rtp/239.49.0.25:8192
 南京影视,http://j1900.silicaite.com:58888/rtp/239.49.0.24:8000
 南京教科,http://j1900.silicaite.com:58888/rtp/239.49.0.183:9434
@@ -1594,7 +1590,6 @@ CCTV16-SDR,http://jw318.synology.me:888/rtp/239.49.0.109:8000
 好享购物,http://jw318.synology.me:888/rtp/239.49.0.103:8000
 中学生,http://jw318.synology.me:888/rtp/239.49.1.82:8000
 
-江苏地方,#genre#
 南京新闻综合,http://jw318.synology.me:888/rtp/239.49.0.25:8192
 南京影视,http://jw318.synology.me:888/rtp/239.49.0.24:8000
 南京教科,http://jw318.synology.me:888/rtp/239.49.0.183:9434
