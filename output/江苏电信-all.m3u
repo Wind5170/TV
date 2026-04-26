@@ -45,6 +45,8 @@ http://dx.joygala.cn:8118/rtp/239.49.8.55:9822
 http://dx.joygala.cn:8118/rtp/239.49.0.196:8000
 #EXTINF:-1 group-title="央视",CCTV13-HD
 http://dx.joygala.cn:8118/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="央视",CCTV13-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.109:8000
 #EXTINF:-1 group-title="央视",CCTV14-HD
 http://dx.joygala.cn:8118/rtp/239.49.8.136:6000
 #EXTINF:-1 group-title="央视",CCTV14-HD
@@ -389,8 +391,26 @@ http://dx.joygala.cn:8118/rtp/239.49.1.65:8000
 http://dx.joygala.cn:8118/rtp/239.49.1.66:8000
 #EXTINF:-1 group-title="超清",欢笑剧场-SDR
 http://dx.joygala.cn:8118/rtp/239.49.8.106:8000
-#EXTINF:-1 group-title="超清",欢笑剧场-HDR
-http://dx.joygala.cn:8118/rtp/239.49.8.106:8000
+#EXTINF:-1 group-title="江苏",江苏城市-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏",江苏综艺-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏",江苏体育-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏",江苏影视-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏",江苏新闻-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏",江苏教育-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏",江苏国际-HD
+http://dx.joygala.cn:8118/rtp/239.49.1.81:8000
+#EXTINF:-1 group-title="江苏",优漫卡通-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏",好享购物-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.121:8000
+#EXTINF:-1 group-title="江苏",财富天下-HD
+http://dx.joygala.cn:8118/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",江苏城市
 http://dx.joygala.cn:8118/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="江苏",江苏城市
@@ -421,28 +441,6 @@ http://dx.joygala.cn:8118/rtp/239.49.1.21:6000
 http://dx.joygala.cn:8118/rtp/239.49.0.103:8000
 #EXTINF:-1 group-title="江苏",中学生
 http://dx.joygala.cn:8118/rtp/239.49.1.82:8000
-#EXTINF:-1 group-title="江苏",江苏卫视-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.138:6000
-#EXTINF:-1 group-title="江苏",江苏城市-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏",江苏综艺-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏",江苏体育-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏",江苏影视-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏",江苏新闻-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏",江苏教育-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏",江苏国际-HD
-http://dx.joygala.cn:8118/rtp/239.49.1.81:8000
-#EXTINF:-1 group-title="江苏",优漫卡通-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏",好享购物-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.121:8000
-#EXTINF:-1 group-title="江苏",财富天下-HD
-http://dx.joygala.cn:8118/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://dx.joygala.cn:8118/rtp/239.49.0.25:8192
 #EXTINF:-1 group-title="江苏",南京影视
@@ -527,6 +525,8 @@ http://dx.joygala.cn:8118/rtp/239.49.0.89:8000
 http://dx.joygala.cn:8118/rtp/239.49.8.30:8000
 #EXTINF:-1 group-title="江苏",盐城2教育-HD
 http://dx.joygala.cn:8118/rtp/239.49.0.88:8000
+#EXTINF:-1 group-title="江苏",响水综合
+http://dx.joygala.cn:8118/rtp/239.49.0.115:8912
 #EXTINF:-1 group-title="江苏",镇江新闻综合
 http://dx.joygala.cn:8118/rtp/239.49.0.98:8000
 #EXTINF:-1 group-title="江苏",镇江民生教育
@@ -545,6 +545,8 @@ http://dx.joygala.cn:8118/rtp/239.49.0.168:8000
 http://dx.joygala.cn:8118/rtp/239.49.0.231:8000
 #EXTINF:-1 group-title="江苏",宿迁公共
 http://dx.joygala.cn:8118/rtp/239.49.0.236:8000
+#EXTINF:-1 group-title="江苏",沭阳综合
+http://dx.joygala.cn:8118/rtp/239.49.0.189:8792
 #EXTINF:-1 group-title="江苏",泗阳综合
 http://dx.joygala.cn:8118/rtp/239.49.0.249:8000
 #EXTINF:-1 group-title="江苏",泗洪综合
@@ -625,6 +627,8 @@ http://dx.joygala.cn:8118/rtp/239.49.1.92:8000
 http://dx.joygala.cn:8118/rtp/239.49.1.86:8000
 #EXTINF:-1 group-title="广播",江苏新闻综合广播
 http://dx.joygala.cn:8118/rtp/239.49.1.91:8000
+#EXTINF:-1 group-title="更新时间",2026/04/26 23:03
+https://taoiptv.com/time.mp4
 
 #EXTINF:-1 group-title="央视",CCTV1-HD
 http://202.8090pc.cn:58888/rtp/239.49.0.207:8000
@@ -672,6 +676,8 @@ http://202.8090pc.cn:58888/rtp/239.49.8.55:9822
 http://202.8090pc.cn:58888/rtp/239.49.0.196:8000
 #EXTINF:-1 group-title="央视",CCTV13-HD
 http://202.8090pc.cn:58888/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="央视",CCTV13-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.109:8000
 #EXTINF:-1 group-title="央视",CCTV14-HD
 http://202.8090pc.cn:58888/rtp/239.49.8.136:6000
 #EXTINF:-1 group-title="央视",CCTV14-HD
@@ -1016,8 +1022,26 @@ http://202.8090pc.cn:58888/rtp/239.49.1.65:8000
 http://202.8090pc.cn:58888/rtp/239.49.1.66:8000
 #EXTINF:-1 group-title="超清",欢笑剧场-SDR
 http://202.8090pc.cn:58888/rtp/239.49.8.106:8000
-#EXTINF:-1 group-title="超清",欢笑剧场-HDR
-http://202.8090pc.cn:58888/rtp/239.49.8.106:8000
+#EXTINF:-1 group-title="江苏",江苏城市-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏",江苏综艺-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏",江苏体育-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏",江苏影视-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏",江苏新闻-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏",江苏教育-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏",江苏国际-HD
+http://202.8090pc.cn:58888/rtp/239.49.1.81:8000
+#EXTINF:-1 group-title="江苏",优漫卡通-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏",好享购物-HD
+http://202.8090pc.cn:58888/rtp/239.49.8.121:8000
+#EXTINF:-1 group-title="江苏",财富天下-HD
+http://202.8090pc.cn:58888/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",江苏城市
 http://202.8090pc.cn:58888/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="江苏",江苏城市
@@ -1048,28 +1072,6 @@ http://202.8090pc.cn:58888/rtp/239.49.1.21:6000
 http://202.8090pc.cn:58888/rtp/239.49.0.103:8000
 #EXTINF:-1 group-title="江苏",中学生
 http://202.8090pc.cn:58888/rtp/239.49.1.82:8000
-#EXTINF:-1 group-title="江苏",江苏卫视-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.138:6000
-#EXTINF:-1 group-title="江苏",江苏城市-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏",江苏综艺-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏",江苏体育-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏",江苏影视-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏",江苏新闻-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏",江苏教育-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏",江苏国际-HD
-http://202.8090pc.cn:58888/rtp/239.49.1.81:8000
-#EXTINF:-1 group-title="江苏",优漫卡通-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏",好享购物-HD
-http://202.8090pc.cn:58888/rtp/239.49.8.121:8000
-#EXTINF:-1 group-title="江苏",财富天下-HD
-http://202.8090pc.cn:58888/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://202.8090pc.cn:58888/rtp/239.49.0.25:8192
 #EXTINF:-1 group-title="江苏",南京影视
@@ -1154,6 +1156,8 @@ http://202.8090pc.cn:58888/rtp/239.49.0.89:8000
 http://202.8090pc.cn:58888/rtp/239.49.8.30:8000
 #EXTINF:-1 group-title="江苏",盐城2教育-HD
 http://202.8090pc.cn:58888/rtp/239.49.0.88:8000
+#EXTINF:-1 group-title="江苏",响水综合
+http://202.8090pc.cn:58888/rtp/239.49.0.115:8912
 #EXTINF:-1 group-title="江苏",镇江新闻综合
 http://202.8090pc.cn:58888/rtp/239.49.0.98:8000
 #EXTINF:-1 group-title="江苏",镇江民生教育
@@ -1172,6 +1176,8 @@ http://202.8090pc.cn:58888/rtp/239.49.0.168:8000
 http://202.8090pc.cn:58888/rtp/239.49.0.231:8000
 #EXTINF:-1 group-title="江苏",宿迁公共
 http://202.8090pc.cn:58888/rtp/239.49.0.236:8000
+#EXTINF:-1 group-title="江苏",沭阳综合
+http://202.8090pc.cn:58888/rtp/239.49.0.189:8792
 #EXTINF:-1 group-title="江苏",泗阳综合
 http://202.8090pc.cn:58888/rtp/239.49.0.249:8000
 #EXTINF:-1 group-title="江苏",泗洪综合
@@ -1252,6 +1258,8 @@ http://202.8090pc.cn:58888/rtp/239.49.1.92:8000
 http://202.8090pc.cn:58888/rtp/239.49.1.86:8000
 #EXTINF:-1 group-title="广播",江苏新闻综合广播
 http://202.8090pc.cn:58888/rtp/239.49.1.91:8000
+#EXTINF:-1 group-title="更新时间",2026/04/26 23:03
+https://taoiptv.com/time.mp4
 
 #EXTINF:-1 group-title="央视",CCTV1-HD
 http://j1900.silicaite.top:58888/rtp/239.49.0.207:8000
@@ -1299,6 +1307,8 @@ http://j1900.silicaite.top:58888/rtp/239.49.8.55:9822
 http://j1900.silicaite.top:58888/rtp/239.49.0.196:8000
 #EXTINF:-1 group-title="央视",CCTV13-HD
 http://j1900.silicaite.top:58888/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="央视",CCTV13-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.109:8000
 #EXTINF:-1 group-title="央视",CCTV14-HD
 http://j1900.silicaite.top:58888/rtp/239.49.8.136:6000
 #EXTINF:-1 group-title="央视",CCTV14-HD
@@ -1643,8 +1653,26 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.65:8000
 http://j1900.silicaite.top:58888/rtp/239.49.1.66:8000
 #EXTINF:-1 group-title="超清",欢笑剧场-SDR
 http://j1900.silicaite.top:58888/rtp/239.49.8.106:8000
-#EXTINF:-1 group-title="超清",欢笑剧场-HDR
-http://j1900.silicaite.top:58888/rtp/239.49.8.106:8000
+#EXTINF:-1 group-title="江苏",江苏城市-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏",江苏综艺-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏",江苏体育-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏",江苏影视-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏",江苏新闻-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏",江苏教育-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏",江苏国际-HD
+http://j1900.silicaite.top:58888/rtp/239.49.1.81:8000
+#EXTINF:-1 group-title="江苏",优漫卡通-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏",好享购物-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.121:8000
+#EXTINF:-1 group-title="江苏",财富天下-HD
+http://j1900.silicaite.top:58888/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",江苏城市
 http://j1900.silicaite.top:58888/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="江苏",江苏城市
@@ -1675,28 +1703,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.21:6000
 http://j1900.silicaite.top:58888/rtp/239.49.0.103:8000
 #EXTINF:-1 group-title="江苏",中学生
 http://j1900.silicaite.top:58888/rtp/239.49.1.82:8000
-#EXTINF:-1 group-title="江苏",江苏卫视-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.138:6000
-#EXTINF:-1 group-title="江苏",江苏城市-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏",江苏综艺-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏",江苏体育-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏",江苏影视-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏",江苏新闻-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏",江苏教育-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏",江苏国际-HD
-http://j1900.silicaite.top:58888/rtp/239.49.1.81:8000
-#EXTINF:-1 group-title="江苏",优漫卡通-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏",好享购物-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.121:8000
-#EXTINF:-1 group-title="江苏",财富天下-HD
-http://j1900.silicaite.top:58888/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://j1900.silicaite.top:58888/rtp/239.49.0.25:8192
 #EXTINF:-1 group-title="江苏",南京影视
@@ -1781,6 +1787,8 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.89:8000
 http://j1900.silicaite.top:58888/rtp/239.49.8.30:8000
 #EXTINF:-1 group-title="江苏",盐城2教育-HD
 http://j1900.silicaite.top:58888/rtp/239.49.0.88:8000
+#EXTINF:-1 group-title="江苏",响水综合
+http://j1900.silicaite.top:58888/rtp/239.49.0.115:8912
 #EXTINF:-1 group-title="江苏",镇江新闻综合
 http://j1900.silicaite.top:58888/rtp/239.49.0.98:8000
 #EXTINF:-1 group-title="江苏",镇江民生教育
@@ -1799,6 +1807,8 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.168:8000
 http://j1900.silicaite.top:58888/rtp/239.49.0.231:8000
 #EXTINF:-1 group-title="江苏",宿迁公共
 http://j1900.silicaite.top:58888/rtp/239.49.0.236:8000
+#EXTINF:-1 group-title="江苏",沭阳综合
+http://j1900.silicaite.top:58888/rtp/239.49.0.189:8792
 #EXTINF:-1 group-title="江苏",泗阳综合
 http://j1900.silicaite.top:58888/rtp/239.49.0.249:8000
 #EXTINF:-1 group-title="江苏",泗洪综合
@@ -1879,6 +1889,8 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.92:8000
 http://j1900.silicaite.top:58888/rtp/239.49.1.86:8000
 #EXTINF:-1 group-title="广播",江苏新闻综合广播
 http://j1900.silicaite.top:58888/rtp/239.49.1.91:8000
+#EXTINF:-1 group-title="更新时间",2026/04/26 23:03
+https://taoiptv.com/time.mp4
 
 #EXTINF:-1 group-title="央视",CCTV1-HD
 http://j1900.silicaite.com:58888/rtp/239.49.0.207:8000
@@ -1926,6 +1938,8 @@ http://j1900.silicaite.com:58888/rtp/239.49.8.55:9822
 http://j1900.silicaite.com:58888/rtp/239.49.0.196:8000
 #EXTINF:-1 group-title="央视",CCTV13-HD
 http://j1900.silicaite.com:58888/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="央视",CCTV13-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.109:8000
 #EXTINF:-1 group-title="央视",CCTV14-HD
 http://j1900.silicaite.com:58888/rtp/239.49.8.136:6000
 #EXTINF:-1 group-title="央视",CCTV14-HD
@@ -2270,8 +2284,26 @@ http://j1900.silicaite.com:58888/rtp/239.49.1.65:8000
 http://j1900.silicaite.com:58888/rtp/239.49.1.66:8000
 #EXTINF:-1 group-title="超清",欢笑剧场-SDR
 http://j1900.silicaite.com:58888/rtp/239.49.8.106:8000
-#EXTINF:-1 group-title="超清",欢笑剧场-HDR
-http://j1900.silicaite.com:58888/rtp/239.49.8.106:8000
+#EXTINF:-1 group-title="江苏",江苏城市-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏",江苏综艺-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏",江苏体育-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏",江苏影视-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏",江苏新闻-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏",江苏教育-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏",江苏国际-HD
+http://j1900.silicaite.com:58888/rtp/239.49.1.81:8000
+#EXTINF:-1 group-title="江苏",优漫卡通-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏",好享购物-HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.121:8000
+#EXTINF:-1 group-title="江苏",财富天下-HD
+http://j1900.silicaite.com:58888/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",江苏城市
 http://j1900.silicaite.com:58888/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="江苏",江苏城市
@@ -2302,28 +2334,6 @@ http://j1900.silicaite.com:58888/rtp/239.49.1.21:6000
 http://j1900.silicaite.com:58888/rtp/239.49.0.103:8000
 #EXTINF:-1 group-title="江苏",中学生
 http://j1900.silicaite.com:58888/rtp/239.49.1.82:8000
-#EXTINF:-1 group-title="江苏",江苏卫视-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.138:6000
-#EXTINF:-1 group-title="江苏",江苏城市-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏",江苏综艺-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏",江苏体育-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏",江苏影视-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏",江苏新闻-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏",江苏教育-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏",江苏国际-HD
-http://j1900.silicaite.com:58888/rtp/239.49.1.81:8000
-#EXTINF:-1 group-title="江苏",优漫卡通-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏",好享购物-HD
-http://j1900.silicaite.com:58888/rtp/239.49.8.121:8000
-#EXTINF:-1 group-title="江苏",财富天下-HD
-http://j1900.silicaite.com:58888/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://j1900.silicaite.com:58888/rtp/239.49.0.25:8192
 #EXTINF:-1 group-title="江苏",南京影视
@@ -2408,6 +2418,8 @@ http://j1900.silicaite.com:58888/rtp/239.49.0.89:8000
 http://j1900.silicaite.com:58888/rtp/239.49.8.30:8000
 #EXTINF:-1 group-title="江苏",盐城2教育-HD
 http://j1900.silicaite.com:58888/rtp/239.49.0.88:8000
+#EXTINF:-1 group-title="江苏",响水综合
+http://j1900.silicaite.com:58888/rtp/239.49.0.115:8912
 #EXTINF:-1 group-title="江苏",镇江新闻综合
 http://j1900.silicaite.com:58888/rtp/239.49.0.98:8000
 #EXTINF:-1 group-title="江苏",镇江民生教育
@@ -2426,6 +2438,8 @@ http://j1900.silicaite.com:58888/rtp/239.49.0.168:8000
 http://j1900.silicaite.com:58888/rtp/239.49.0.231:8000
 #EXTINF:-1 group-title="江苏",宿迁公共
 http://j1900.silicaite.com:58888/rtp/239.49.0.236:8000
+#EXTINF:-1 group-title="江苏",沭阳综合
+http://j1900.silicaite.com:58888/rtp/239.49.0.189:8792
 #EXTINF:-1 group-title="江苏",泗阳综合
 http://j1900.silicaite.com:58888/rtp/239.49.0.249:8000
 #EXTINF:-1 group-title="江苏",泗洪综合
@@ -2506,6 +2520,8 @@ http://j1900.silicaite.com:58888/rtp/239.49.1.92:8000
 http://j1900.silicaite.com:58888/rtp/239.49.1.86:8000
 #EXTINF:-1 group-title="广播",江苏新闻综合广播
 http://j1900.silicaite.com:58888/rtp/239.49.1.91:8000
+#EXTINF:-1 group-title="更新时间",2026/04/26 23:03
+https://taoiptv.com/time.mp4
 
 #EXTINF:-1 group-title="央视",CCTV1-HD
 http://e.heylc.com:4022/rtp/239.49.0.207:8000
@@ -2553,6 +2569,8 @@ http://e.heylc.com:4022/rtp/239.49.8.55:9822
 http://e.heylc.com:4022/rtp/239.49.0.196:8000
 #EXTINF:-1 group-title="央视",CCTV13-HD
 http://e.heylc.com:4022/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="央视",CCTV13-HD
+http://e.heylc.com:4022/rtp/239.49.8.109:8000
 #EXTINF:-1 group-title="央视",CCTV14-HD
 http://e.heylc.com:4022/rtp/239.49.8.136:6000
 #EXTINF:-1 group-title="央视",CCTV14-HD
@@ -2897,8 +2915,26 @@ http://e.heylc.com:4022/rtp/239.49.1.65:8000
 http://e.heylc.com:4022/rtp/239.49.1.66:8000
 #EXTINF:-1 group-title="超清",欢笑剧场-SDR
 http://e.heylc.com:4022/rtp/239.49.8.106:8000
-#EXTINF:-1 group-title="超清",欢笑剧场-HDR
-http://e.heylc.com:4022/rtp/239.49.8.106:8000
+#EXTINF:-1 group-title="江苏",江苏城市-HD
+http://e.heylc.com:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="江苏",江苏综艺-HD
+http://e.heylc.com:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="江苏",江苏体育-HD
+http://e.heylc.com:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="江苏",江苏影视-HD
+http://e.heylc.com:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="江苏",江苏新闻-HD
+http://e.heylc.com:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="江苏",江苏教育-HD
+http://e.heylc.com:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="江苏",江苏国际-HD
+http://e.heylc.com:4022/rtp/239.49.1.81:8000
+#EXTINF:-1 group-title="江苏",优漫卡通-HD
+http://e.heylc.com:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="江苏",好享购物-HD
+http://e.heylc.com:4022/rtp/239.49.8.121:8000
+#EXTINF:-1 group-title="江苏",财富天下-HD
+http://e.heylc.com:4022/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",江苏城市
 http://e.heylc.com:4022/rtp/239.49.0.17:8128
 #EXTINF:-1 group-title="江苏",江苏城市
@@ -2929,28 +2965,6 @@ http://e.heylc.com:4022/rtp/239.49.1.21:6000
 http://e.heylc.com:4022/rtp/239.49.0.103:8000
 #EXTINF:-1 group-title="江苏",中学生
 http://e.heylc.com:4022/rtp/239.49.1.82:8000
-#EXTINF:-1 group-title="江苏",江苏卫视-HD
-http://e.heylc.com:4022/rtp/239.49.8.138:6000
-#EXTINF:-1 group-title="江苏",江苏城市-HD
-http://e.heylc.com:4022/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="江苏",江苏综艺-HD
-http://e.heylc.com:4022/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="江苏",江苏体育-HD
-http://e.heylc.com:4022/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="江苏",江苏影视-HD
-http://e.heylc.com:4022/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="江苏",江苏新闻-HD
-http://e.heylc.com:4022/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="江苏",江苏教育-HD
-http://e.heylc.com:4022/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="江苏",江苏国际-HD
-http://e.heylc.com:4022/rtp/239.49.1.81:8000
-#EXTINF:-1 group-title="江苏",优漫卡通-HD
-http://e.heylc.com:4022/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="江苏",好享购物-HD
-http://e.heylc.com:4022/rtp/239.49.8.121:8000
-#EXTINF:-1 group-title="江苏",财富天下-HD
-http://e.heylc.com:4022/rtp/239.49.1.76:8000
 #EXTINF:-1 group-title="江苏",南京新闻综合
 http://e.heylc.com:4022/rtp/239.49.0.25:8192
 #EXTINF:-1 group-title="江苏",南京影视
@@ -3035,6 +3049,8 @@ http://e.heylc.com:4022/rtp/239.49.0.89:8000
 http://e.heylc.com:4022/rtp/239.49.8.30:8000
 #EXTINF:-1 group-title="江苏",盐城2教育-HD
 http://e.heylc.com:4022/rtp/239.49.0.88:8000
+#EXTINF:-1 group-title="江苏",响水综合
+http://e.heylc.com:4022/rtp/239.49.0.115:8912
 #EXTINF:-1 group-title="江苏",镇江新闻综合
 http://e.heylc.com:4022/rtp/239.49.0.98:8000
 #EXTINF:-1 group-title="江苏",镇江民生教育
@@ -3053,6 +3069,8 @@ http://e.heylc.com:4022/rtp/239.49.0.168:8000
 http://e.heylc.com:4022/rtp/239.49.0.231:8000
 #EXTINF:-1 group-title="江苏",宿迁公共
 http://e.heylc.com:4022/rtp/239.49.0.236:8000
+#EXTINF:-1 group-title="江苏",沭阳综合
+http://e.heylc.com:4022/rtp/239.49.0.189:8792
 #EXTINF:-1 group-title="江苏",泗阳综合
 http://e.heylc.com:4022/rtp/239.49.0.249:8000
 #EXTINF:-1 group-title="江苏",泗洪综合
@@ -3133,6 +3151,8 @@ http://e.heylc.com:4022/rtp/239.49.1.92:8000
 http://e.heylc.com:4022/rtp/239.49.1.86:8000
 #EXTINF:-1 group-title="广播",江苏新闻综合广播
 http://e.heylc.com:4022/rtp/239.49.1.91:8000
+#EXTINF:-1 group-title="更新时间",2026/04/26 23:03
+https://taoiptv.com/time.mp4
 
-#EXTINF:-1 group-title="更新时间",2026/04/26 22:32
+#EXTINF:-1 group-title="更新时间",2026/04/26 23:16
 https://taoiptv.com/time.mp4
