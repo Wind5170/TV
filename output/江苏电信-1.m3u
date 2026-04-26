@@ -1,0 +1,1036 @@
+#EXTM3U
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://202.8090pc.cn:58888/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://202.8090pc.cn:58888/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://202.8090pc.cn:58888/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://202.8090pc.cn:58888/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://202.8090pc.cn:58888/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://202.8090pc.cn:58888/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://202.8090pc.cn:58888/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://202.8090pc.cn:58888/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://202.8090pc.cn:58888/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://202.8090pc.cn:58888/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://202.8090pc.cn:58888/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://202.8090pc.cn:58888/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://202.8090pc.cn:58888/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://202.8090pc.cn:58888/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://202.8090pc.cn:58888/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://202.8090pc.cn:58888/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://202.8090pc.cn:58888/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://202.8090pc.cn:58888/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://202.8090pc.cn:58888/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://202.8090pc.cn:58888/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://202.8090pc.cn:58888/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://202.8090pc.cn:58888/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://202.8090pc.cn:58888/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://202.8090pc.cn:58888/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://202.8090pc.cn:58888/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://dx.joygala.cn:8118/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://dx.joygala.cn:8118/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://dx.joygala.cn:8118/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://dx.joygala.cn:8118/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://dx.joygala.cn:8118/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://dx.joygala.cn:8118/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://dx.joygala.cn:8118/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://dx.joygala.cn:8118/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://dx.joygala.cn:8118/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://dx.joygala.cn:8118/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://dx.joygala.cn:8118/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://dx.joygala.cn:8118/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://dx.joygala.cn:8118/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://dx.joygala.cn:8118/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://dx.joygala.cn:8118/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://dx.joygala.cn:8118/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://dx.joygala.cn:8118/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://dx.joygala.cn:8118/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://dx.joygala.cn:8118/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://dx.joygala.cn:8118/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://dx.joygala.cn:8118/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://dx.joygala.cn:8118/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://dx.joygala.cn:8118/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://dx.joygala.cn:8118/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://huijie5421.cn:8800/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://huijie5421.cn:8800/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://huijie5421.cn:8800/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://huijie5421.cn:8800/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://huijie5421.cn:8800/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://huijie5421.cn:8800/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://huijie5421.cn:8800/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://huijie5421.cn:8800/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://huijie5421.cn:8800/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://huijie5421.cn:8800/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://huijie5421.cn:8800/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://huijie5421.cn:8800/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://huijie5421.cn:8800/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://huijie5421.cn:8800/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://huijie5421.cn:8800/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://huijie5421.cn:8800/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://huijie5421.cn:8800/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://huijie5421.cn:8800/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://huijie5421.cn:8800/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://huijie5421.cn:8800/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://huijie5421.cn:8800/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://huijie5421.cn:8800/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://huijie5421.cn:8800/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://huijie5421.cn:8800/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://huijie5421.cn:8800/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://huijie5421.cn:8800/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://huijie5421.cn:8800/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://huijie5421.cn:8800/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://huijie5421.cn:8800/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://huijie5421.cn:8800/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://huijie5421.cn:8800/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://huijie5421.cn:8800/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://huijie5421.cn:8800/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://huijie5421.cn:8800/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://huijie5421.cn:8800/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://huijie5421.cn:8800/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://huijie5421.cn:8800/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://huijie5421.cn:8800/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://huijie5421.cn:8800/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://huijie5421.cn:8800/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://huijie5421.cn:8800/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://huijie5421.cn:8800/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://huijie5421.cn:8800/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://huijie5421.cn:8800/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://huijie5421.cn:8800/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://huijie5421.cn:8800/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://huijie5421.cn:8800/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://huijie5421.cn:8800/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://jw318.synology.me:888/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://jw318.synology.me:888/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://jw318.synology.me:888/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://jw318.synology.me:888/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://jw318.synology.me:888/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://jw318.synology.me:888/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://jw318.synology.me:888/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://jw318.synology.me:888/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://jw318.synology.me:888/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://jw318.synology.me:888/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://jw318.synology.me:888/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://jw318.synology.me:888/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://jw318.synology.me:888/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://jw318.synology.me:888/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://jw318.synology.me:888/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://jw318.synology.me:888/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://jw318.synology.me:888/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://jw318.synology.me:888/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://jw318.synology.me:888/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://jw318.synology.me:888/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://jw318.synology.me:888/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://jw318.synology.me:888/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://jw318.synology.me:888/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://jw318.synology.me:888/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://jw318.synology.me:888/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://jw318.synology.me:888/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://jw318.synology.me:888/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://jw318.synology.me:888/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://jw318.synology.me:888/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://jw318.synology.me:888/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://jw318.synology.me:888/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://jw318.synology.me:888/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://jw318.synology.me:888/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://jw318.synology.me:888/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://jw318.synology.me:888/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://jw318.synology.me:888/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://jw318.synology.me:888/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://jw318.synology.me:888/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://jw318.synology.me:888/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://jw318.synology.me:888/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://jw318.synology.me:888/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://jw318.synology.me:888/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://jw318.synology.me:888/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://jw318.synology.me:888/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://jw318.synology.me:888/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://jw318.synology.me:888/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://jw318.synology.me:888/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://jw318.synology.me:888/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://e.heylc.com:4022/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://e.heylc.com:4022/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://e.heylc.com:4022/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://e.heylc.com:4022/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://e.heylc.com:4022/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://e.heylc.com:4022/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://e.heylc.com:4022/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://e.heylc.com:4022/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://e.heylc.com:4022/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://e.heylc.com:4022/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://e.heylc.com:4022/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://e.heylc.com:4022/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://e.heylc.com:4022/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://e.heylc.com:4022/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://e.heylc.com:4022/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://e.heylc.com:4022/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://e.heylc.com:4022/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://e.heylc.com:4022/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://e.heylc.com:4022/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://e.heylc.com:4022/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://e.heylc.com:4022/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://e.heylc.com:4022/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://e.heylc.com:4022/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://e.heylc.com:4022/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://e.heylc.com:4022/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://e.heylc.com:4022/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://e.heylc.com:4022/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://e.heylc.com:4022/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://e.heylc.com:4022/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://e.heylc.com:4022/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://e.heylc.com:4022/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://e.heylc.com:4022/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://e.heylc.com:4022/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://e.heylc.com:4022/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://e.heylc.com:4022/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://e.heylc.com:4022/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://e.heylc.com:4022/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://e.heylc.com:4022/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://e.heylc.com:4022/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://e.heylc.com:4022/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://e.heylc.com:4022/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://e.heylc.com:4022/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://e.heylc.com:4022/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://e.heylc.com:4022/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://e.heylc.com:4022/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://e.heylc.com:4022/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://e.heylc.com:4022/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://e.heylc.com:4022/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://fnas-v4.17271201.xyz:4000/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://h.vanshun.com:8802/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://h.vanshun.com:8802/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://h.vanshun.com:8802/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://h.vanshun.com:8802/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://h.vanshun.com:8802/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://h.vanshun.com:8802/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://h.vanshun.com:8802/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://h.vanshun.com:8802/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://h.vanshun.com:8802/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://h.vanshun.com:8802/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://h.vanshun.com:8802/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://h.vanshun.com:8802/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://h.vanshun.com:8802/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://h.vanshun.com:8802/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://h.vanshun.com:8802/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://h.vanshun.com:8802/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://h.vanshun.com:8802/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://h.vanshun.com:8802/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://h.vanshun.com:8802/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://h.vanshun.com:8802/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://h.vanshun.com:8802/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://h.vanshun.com:8802/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://h.vanshun.com:8802/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://h.vanshun.com:8802/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://h.vanshun.com:8802/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://h.vanshun.com:8802/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://h.vanshun.com:8802/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://h.vanshun.com:8802/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://h.vanshun.com:8802/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://h.vanshun.com:8802/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://h.vanshun.com:8802/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://h.vanshun.com:8802/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://h.vanshun.com:8802/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://h.vanshun.com:8802/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://h.vanshun.com:8802/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://h.vanshun.com:8802/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://h.vanshun.com:8802/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://h.vanshun.com:8802/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://h.vanshun.com:8802/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://h.vanshun.com:8802/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://h.vanshun.com:8802/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://h.vanshun.com:8802/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://h.vanshun.com:8802/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://h.vanshun.com:8802/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://h.vanshun.com:8802/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://h.vanshun.com:8802/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://h.vanshun.com:8802/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://h.vanshun.com:8802/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://istoreos.sclvip.top:5566/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://istoreos.sclvip.top:5566/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://istoreos.sclvip.top:5566/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://istoreos.sclvip.top:5566/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://istoreos.sclvip.top:5566/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://istoreos.sclvip.top:5566/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://istoreos.sclvip.top:5566/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://istoreos.sclvip.top:5566/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://istoreos.sclvip.top:5566/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://istoreos.sclvip.top:5566/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://istoreos.sclvip.top:5566/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://istoreos.sclvip.top:5566/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://istoreos.sclvip.top:5566/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://istoreos.sclvip.top:5566/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://istoreos.sclvip.top:5566/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://istoreos.sclvip.top:5566/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://istoreos.sclvip.top:5566/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://istoreos.sclvip.top:5566/rtp/239.49.0.124:8000
+
+#EXTINF:-1 group-title="标清",CCTV1高清
+http://www.266999.xyz:55555/rtp/239.49.8.19:9614
+#EXTINF:-1 group-title="标清",CCTV1高清2
+http://www.266999.xyz:55555/rtp/239.49.8.129:6000
+#EXTINF:-1 group-title="标清",CCTV1综合
+http://www.266999.xyz:55555/rtp/239.49.1.1:6000
+#EXTINF:-1 group-title="标清",CCTV2财经高清
+http://www.266999.xyz:55555/rtp/239.49.8.50:9802
+#EXTINF:-1 group-title="标清",CCTV4中文国际高清
+http://www.266999.xyz:55555/rtp/239.49.8.51:9806
+#EXTINF:-1 group-title="标清",CCTV5体育频道
+http://www.266999.xyz:55555/rtp/239.49.0.5:9570
+#EXTINF:-1 group-title="标清",CCTV6电影频道
+http://www.266999.xyz:55555/rtp/239.49.0.6:9574
+#EXTINF:-1 group-title="标清",CCTV7军事-农业高清
+http://www.266999.xyz:55555/rtp/239.49.8.52:9810
+#EXTINF:-1 group-title="标清",CCTV7军事农业
+http://www.266999.xyz:55555/rtp/239.49.0.7:8048
+#EXTINF:-1 group-title="标清",CCTV8电视剧
+http://www.266999.xyz:55555/rtp/239.49.0.8:9578
+#EXTINF:-1 group-title="标清",CCTV10科教
+http://www.266999.xyz:55555/rtp/239.49.0.10:8072
+#EXTINF:-1 group-title="标清",CCTV10科教高清
+http://www.266999.xyz:55555/rtp/239.49.8.134:6000
+#EXTINF:-1 group-title="标清",CCTV11戏曲
+http://www.266999.xyz:55555/rtp/239.49.0.11:8080
+#EXTINF:-1 group-title="标清",CCTV12社会与法高清
+http://www.266999.xyz:55555/rtp/239.49.8.55:9822
+#EXTINF:-1 group-title="标清",CCTV12社会与法
+http://www.266999.xyz:55555/rtp/239.49.0.12:8088
+#EXTINF:-1 group-title="标清",CCTV13新闻
+http://www.266999.xyz:55555/rtp/239.49.0.13:8096
+#EXTINF:-1 group-title="标清",CCTV14少儿高清
+http://www.266999.xyz:55555/rtp/239.49.8.56:9826
+#EXTINF:-1 group-title="标清",CGTN
+http://www.266999.xyz:55555/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="标清",CETV1
+http://www.266999.xyz:55555/rtp/239.49.0.70:8552
+#EXTINF:-1 group-title="标清",湖北卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.8:9632
+#EXTINF:-1 group-title="标清",北京卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.11:9414
+#EXTINF:-1 group-title="标清",湖南卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.12:9418
+#EXTINF:-1 group-title="标清",广东卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.13:9422
+#EXTINF:-1 group-title="标清",黑龙江卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.14:9426
+#EXTINF:-1 group-title="标清",深圳卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.15:9430
+#EXTINF:-1 group-title="标清",江苏卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="标清",浙江卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.20:9618
+#EXTINF:-1 group-title="标清",天津卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.35:8620
+#EXTINF:-1 group-title="标清",重庆卫视高清
+http://www.266999.xyz:55555/rtp/239.49.8.57:9830
+#EXTINF:-1 group-title="标清",江苏卫视
+http://www.266999.xyz:55555/rtp/239.49.0.16:8120
+#EXTINF:-1 group-title="标清",北京卫视
+http://www.266999.xyz:55555/rtp/239.49.0.49:8384
+#EXTINF:-1 group-title="标清",浙江卫视
+http://www.266999.xyz:55555/rtp/239.49.0.50:8392
+#EXTINF:-1 group-title="标清",辽宁卫视
+http://www.266999.xyz:55555/rtp/239.49.0.51:8400
+#EXTINF:-1 group-title="标清",安徽卫视
+http://www.266999.xyz:55555/rtp/239.49.0.52:8408
+#EXTINF:-1 group-title="标清",山东卫视
+http://www.266999.xyz:55555/rtp/239.49.0.53:8416
+#EXTINF:-1 group-title="标清",湖南卫视
+http://www.266999.xyz:55555/rtp/239.49.0.54:8424
+#EXTINF:-1 group-title="标清",广东卫视
+http://www.266999.xyz:55555/rtp/239.49.0.55:8432
+#EXTINF:-1 group-title="标清",广西卫视
+http://www.266999.xyz:55555/rtp/239.49.0.56:8440
+#EXTINF:-1 group-title="标清",旅游卫视
+http://www.266999.xyz:55555/rtp/239.49.0.57:8448
+#EXTINF:-1 group-title="标清",重庆卫视
+http://www.266999.xyz:55555/rtp/239.49.0.58:8456
+#EXTINF:-1 group-title="标清",四川卫视
+http://www.266999.xyz:55555/rtp/239.49.0.59:8464
+#EXTINF:-1 group-title="标清",河南卫视
+http://www.266999.xyz:55555/rtp/239.49.0.60:8472
+#EXTINF:-1 group-title="标清",东南卫视
+http://www.266999.xyz:55555/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="标清",天津卫视
+http://www.266999.xyz:55555/rtp/239.49.0.62:8488
+#EXTINF:-1 group-title="标清",江西卫视
+http://www.266999.xyz:55555/rtp/239.49.0.63:8496
+#EXTINF:-1 group-title="标清",湖北卫视
+http://www.266999.xyz:55555/rtp/239.49.0.64:8504
+#EXTINF:-1 group-title="标清",吉林卫视
+http://www.266999.xyz:55555/rtp/239.49.0.65:8512
+#EXTINF:-1 group-title="标清",黑龙江卫视
+http://www.266999.xyz:55555/rtp/239.49.0.66:8520
+#EXTINF:-1 group-title="标清",山西卫视
+http://www.266999.xyz:55555/rtp/239.49.0.67:8528
+#EXTINF:-1 group-title="标清",贵州卫视
+http://www.266999.xyz:55555/rtp/239.49.0.68:8536
+#EXTINF:-1 group-title="标清",青海卫视
+http://www.266999.xyz:55555/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="标清",深圳卫视
+http://www.266999.xyz:55555/rtp/239.49.0.100:8788
+#EXTINF:-1 group-title="标清",江苏城市
+http://www.266999.xyz:55555/rtp/239.49.0.17:8128
+#EXTINF:-1 group-title="标清",江苏综艺
+http://www.266999.xyz:55555/rtp/239.49.0.18:8136
+#EXTINF:-1 group-title="标清",江苏体育休闲
+http://www.266999.xyz:55555/rtp/239.49.0.19:8144
+#EXTINF:-1 group-title="标清",itv导视高清
+http://www.266999.xyz:55555/rtp/239.49.8.34:8612
+#EXTINF:-1 group-title="标清",新沂生活频道
+http://www.266999.xyz:55555/rtp/239.49.0.124:8000
+
