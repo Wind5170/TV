@@ -719,4 +719,4 @@ BesTV百视通,http://shenhua.asuscomm.com:8888/rtp/233.18.204.116:5140
 频道名,http://shenhua.asuscomm.com:8888/rtp/组播地址
 
 更新时间,#genre#
-2026/04/29 23:55,https://taoiptv.com/time.mp4
+2026/04/29 23:58,https://taoiptv.com/time.mp4
