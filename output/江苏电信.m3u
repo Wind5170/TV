@@ -589,16 +589,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.167:8000
 http://clnas.heylc.com:4022/rtp/239.49.0.167:8000
 #EXTINF:-1 group-title="卫视",三沙卫视-HD
 http://istoreos.sclvip.top:8787/rtp/239.49.0.167:8000
-#EXTINF:-1 group-title="卫视",东南卫视
-http://114.222.8.67:8001/rtp/239.49.0.61:8480
-#EXTINF:-1 group-title="卫视",东南卫视
-http://dx.joygala.cn:8118/rtp/239.49.0.61:8480
-#EXTINF:-1 group-title="卫视",东南卫视
-http://j1900.silicaite.top:58888/rtp/239.49.0.61:8480
-#EXTINF:-1 group-title="卫视",东南卫视
-http://clnas.heylc.com:4022/rtp/239.49.0.61:8480
-#EXTINF:-1 group-title="卫视",东南卫视
-http://istoreos.sclvip.top:8787/rtp/239.49.0.61:8480
 #EXTINF:-1 group-title="卫视",东南卫视-HD
 http://114.222.8.67:8001/rtp/239.49.8.112:8000
 #EXTINF:-1 group-title="卫视",东南卫视-HD
@@ -1329,6 +1319,26 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.69:8544
 http://clnas.heylc.com:4022/rtp/239.49.0.69:8544
 #EXTINF:-1 group-title="卫视",青海卫视
 http://istoreos.sclvip.top:8787/rtp/239.49.0.69:8544
+#EXTINF:-1 group-title="卫视",嘉佳卡通
+http://114.222.8.67:8001/rtp/239.49.1.214:6000
+#EXTINF:-1 group-title="卫视",嘉佳卡通
+http://dx.joygala.cn:8118/rtp/239.49.1.214:6000
+#EXTINF:-1 group-title="卫视",嘉佳卡通
+http://j1900.silicaite.top:58888/rtp/239.49.1.214:6000
+#EXTINF:-1 group-title="卫视",嘉佳卡通
+http://clnas.heylc.com:4022/rtp/239.49.1.214:6000
+#EXTINF:-1 group-title="卫视",嘉佳卡通
+http://istoreos.sclvip.top:8787/rtp/239.49.1.214:6000
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://114.222.8.67:8001/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://dx.joygala.cn:8118/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://j1900.silicaite.top:58888/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://clnas.heylc.com:4022/rtp/239.49.0.21:8160
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://istoreos.sclvip.top:8787/rtp/239.49.0.21:8160
 #EXTINF:-1 group-title="地方",4K测试
 http://114.222.8.67:8001/rtp/239.49.8.205:6000
 #EXTINF:-1 group-title="地方",4K测试
@@ -1479,36 +1489,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.101:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.101:6000
 #EXTINF:-1 group-title="地方",东海国学与家道
 http://istoreos.sclvip.top:8787/rtp/239.49.1.101:6000
-#EXTINF:-1 group-title="地方",优漫卡通
-http://114.222.8.67:8001/rtp/239.49.0.21:8160
-#EXTINF:-1 group-title="地方",优漫卡通
-http://dx.joygala.cn:8118/rtp/239.49.0.21:8160
-#EXTINF:-1 group-title="地方",优漫卡通
-http://j1900.silicaite.top:58888/rtp/239.49.0.21:8160
-#EXTINF:-1 group-title="地方",优漫卡通
-http://clnas.heylc.com:4022/rtp/239.49.0.21:8160
-#EXTINF:-1 group-title="地方",优漫卡通
-http://istoreos.sclvip.top:8787/rtp/239.49.0.21:8160
-#EXTINF:-1 group-title="地方",嘉佳卡通
-http://114.222.8.67:8001/rtp/239.49.1.214:6000
-#EXTINF:-1 group-title="地方",嘉佳卡通
-http://dx.joygala.cn:8118/rtp/239.49.1.214:6000
-#EXTINF:-1 group-title="地方",嘉佳卡通
-http://j1900.silicaite.top:58888/rtp/239.49.1.214:6000
-#EXTINF:-1 group-title="地方",嘉佳卡通
-http://clnas.heylc.com:4022/rtp/239.49.1.214:6000
-#EXTINF:-1 group-title="地方",嘉佳卡通
-http://istoreos.sclvip.top:8787/rtp/239.49.1.214:6000
-#EXTINF:-1 group-title="地方",央广健康
-http://114.222.8.67:8001/rtp/239.49.1.104:6000
-#EXTINF:-1 group-title="地方",央广健康
-http://dx.joygala.cn:8118/rtp/239.49.1.104:6000
-#EXTINF:-1 group-title="地方",央广健康
-http://j1900.silicaite.top:58888/rtp/239.49.1.104:6000
-#EXTINF:-1 group-title="地方",央广健康
-http://clnas.heylc.com:4022/rtp/239.49.1.104:6000
-#EXTINF:-1 group-title="地方",央广健康
-http://istoreos.sclvip.top:8787/rtp/239.49.1.104:6000
 #EXTINF:-1 group-title="地方",湖南茶频道
 http://114.222.8.67:8001/rtp/239.49.1.234:6000
 #EXTINF:-1 group-title="地方",湖南茶频道
@@ -1559,6 +1539,246 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.31:8240
 http://clnas.heylc.com:4022/rtp/239.49.0.31:8240
 #EXTINF:-1 group-title="付费",金色学堂
 http://istoreos.sclvip.top:8787/rtp/239.49.0.31:8240
+#EXTINF:-1 group-title="影视",江苏影视
+http://114.222.8.67:8001/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="影视",江苏影视
+http://dx.joygala.cn:8118/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="影视",江苏影视
+http://j1900.silicaite.top:58888/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="影视",江苏影视
+http://clnas.heylc.com:4022/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="影视",江苏影视
+http://istoreos.sclvip.top:8787/rtp/239.49.0.20:8152
+#EXTINF:-1 group-title="国教",CGTN
+http://114.222.8.67:8001/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="国教",CGTN
+http://dx.joygala.cn:8118/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="国教",CGTN
+http://j1900.silicaite.top:58888/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="国教",CGTN
+http://clnas.heylc.com:4022/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="国教",CGTN
+http://istoreos.sclvip.top:8787/rtp/239.49.0.9:8064
+#EXTINF:-1 group-title="数字",中国天气-HD
+http://114.222.8.67:8001/rtp/239.49.0.94:8000
+#EXTINF:-1 group-title="数字",中国天气-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.94:8000
+#EXTINF:-1 group-title="数字",中国天气-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.94:8000
+#EXTINF:-1 group-title="数字",中国天气-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.94:8000
+#EXTINF:-1 group-title="数字",中国天气-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.94:8000
+#EXTINF:-1 group-title="数字",书画-HD
+http://114.222.8.67:8001/rtp/239.49.0.123:8000
+#EXTINF:-1 group-title="数字",书画-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.123:8000
+#EXTINF:-1 group-title="数字",书画-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.123:8000
+#EXTINF:-1 group-title="数字",书画-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.123:8000
+#EXTINF:-1 group-title="数字",书画-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.123:8000
+#EXTINF:-1 group-title="数字",优购物-HD
+http://114.222.8.67:8001/rtp/239.49.0.85:8000
+#EXTINF:-1 group-title="数字",优购物-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.85:8000
+#EXTINF:-1 group-title="数字",优购物-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.85:8000
+#EXTINF:-1 group-title="数字",优购物-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.85:8000
+#EXTINF:-1 group-title="数字",优购物-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.85:8000
+#EXTINF:-1 group-title="数字",卡酷少儿-HD
+http://114.222.8.67:8001/rtp/239.49.0.148:8000
+#EXTINF:-1 group-title="数字",卡酷少儿-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.148:8000
+#EXTINF:-1 group-title="数字",卡酷少儿-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.148:8000
+#EXTINF:-1 group-title="数字",卡酷少儿-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.148:8000
+#EXTINF:-1 group-title="数字",卡酷少儿-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.148:8000
+#EXTINF:-1 group-title="数字",四海钓鱼-HD
+http://114.222.8.67:8001/rtp/239.49.1.80:8000
+#EXTINF:-1 group-title="数字",四海钓鱼-HD
+http://dx.joygala.cn:8118/rtp/239.49.1.80:8000
+#EXTINF:-1 group-title="数字",四海钓鱼-HD
+http://j1900.silicaite.top:58888/rtp/239.49.1.80:8000
+#EXTINF:-1 group-title="数字",四海钓鱼-HD
+http://clnas.heylc.com:4022/rtp/239.49.1.80:8000
+#EXTINF:-1 group-title="数字",四海钓鱼-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.1.80:8000
+#EXTINF:-1 group-title="数字",天元围棋-HD
+http://114.222.8.67:8001/rtp/239.49.1.79:8000
+#EXTINF:-1 group-title="数字",天元围棋-HD
+http://dx.joygala.cn:8118/rtp/239.49.1.79:8000
+#EXTINF:-1 group-title="数字",天元围棋-HD
+http://j1900.silicaite.top:58888/rtp/239.49.1.79:8000
+#EXTINF:-1 group-title="数字",天元围棋-HD
+http://clnas.heylc.com:4022/rtp/239.49.1.79:8000
+#EXTINF:-1 group-title="数字",天元围棋-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.1.79:8000
+#EXTINF:-1 group-title="数字",家有购物-HD
+http://114.222.8.67:8001/rtp/239.49.8.124:8000
+#EXTINF:-1 group-title="数字",家有购物-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.124:8000
+#EXTINF:-1 group-title="数字",家有购物-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.124:8000
+#EXTINF:-1 group-title="数字",家有购物-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.124:8000
+#EXTINF:-1 group-title="数字",家有购物-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.124:8000
+#EXTINF:-1 group-title="数字",快乐垂钓-HD
+http://114.222.8.67:8001/rtp/239.49.0.114:8000
+#EXTINF:-1 group-title="数字",快乐垂钓-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.114:8000
+#EXTINF:-1 group-title="数字",快乐垂钓-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.114:8000
+#EXTINF:-1 group-title="数字",快乐垂钓-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.114:8000
+#EXTINF:-1 group-title="数字",快乐垂钓-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.114:8000
+#EXTINF:-1 group-title="数字",文物宝库-HD
+http://114.222.8.67:8001/rtp/239.49.0.209:8000
+#EXTINF:-1 group-title="数字",文物宝库-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.209:8000
+#EXTINF:-1 group-title="数字",文物宝库-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.209:8000
+#EXTINF:-1 group-title="数字",文物宝库-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.209:8000
+#EXTINF:-1 group-title="数字",文物宝库-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.209:8000
+#EXTINF:-1 group-title="数字",梨园-HD
+http://114.222.8.67:8001/rtp/239.49.8.193:8000
+#EXTINF:-1 group-title="数字",梨园-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.193:8000
+#EXTINF:-1 group-title="数字",梨园-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.193:8000
+#EXTINF:-1 group-title="数字",梨园-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.193:8000
+#EXTINF:-1 group-title="数字",梨园-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.193:8000
+#EXTINF:-1 group-title="数字",武术世界-HD
+http://114.222.8.67:8001/rtp/239.49.0.205:8000
+#EXTINF:-1 group-title="数字",武术世界-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.205:8000
+#EXTINF:-1 group-title="数字",武术世界-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.205:8000
+#EXTINF:-1 group-title="数字",武术世界-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.205:8000
+#EXTINF:-1 group-title="数字",武术世界-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.205:8000
+#EXTINF:-1 group-title="数字",睛彩广场舞-HD
+http://114.222.8.67:8001/rtp/239.49.8.64:8000
+#EXTINF:-1 group-title="数字",睛彩广场舞-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.64:8000
+#EXTINF:-1 group-title="数字",睛彩广场舞-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.64:8000
+#EXTINF:-1 group-title="数字",睛彩广场舞-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.64:8000
+#EXTINF:-1 group-title="数字",睛彩广场舞-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.64:8000
+#EXTINF:-1 group-title="数字",睛彩竞技-HD
+http://114.222.8.67:8001/rtp/239.49.8.39:8000
+#EXTINF:-1 group-title="数字",睛彩竞技-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.39:8000
+#EXTINF:-1 group-title="数字",睛彩竞技-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.39:8000
+#EXTINF:-1 group-title="数字",睛彩竞技-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.39:8000
+#EXTINF:-1 group-title="数字",睛彩竞技-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.39:8000
+#EXTINF:-1 group-title="数字",睛彩篮球-HD
+http://114.222.8.67:8001/rtp/239.49.8.42:8000
+#EXTINF:-1 group-title="数字",睛彩篮球-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.42:8000
+#EXTINF:-1 group-title="数字",睛彩篮球-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.42:8000
+#EXTINF:-1 group-title="数字",睛彩篮球-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.42:8000
+#EXTINF:-1 group-title="数字",睛彩篮球-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.42:8000
+#EXTINF:-1 group-title="数字",睛彩青少-HD
+http://114.222.8.67:8001/rtp/239.49.8.46:8000
+#EXTINF:-1 group-title="数字",睛彩青少-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.46:8000
+#EXTINF:-1 group-title="数字",睛彩青少-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.46:8000
+#EXTINF:-1 group-title="数字",睛彩青少-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.46:8000
+#EXTINF:-1 group-title="数字",睛彩青少-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.46:8000
+#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
+http://114.222.8.67:8001/rtp/239.49.8.123:8000
+#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.123:8000
+#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.123:8000
+#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.123:8000
+#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.123:8000
+#EXTINF:-1 group-title="数字",茶-HD
+http://114.222.8.67:8001/rtp/239.49.0.146:8000
+#EXTINF:-1 group-title="数字",茶-HD
+http://dx.joygala.cn:8118/rtp/239.49.0.146:8000
+#EXTINF:-1 group-title="数字",茶-HD
+http://j1900.silicaite.top:58888/rtp/239.49.0.146:8000
+#EXTINF:-1 group-title="数字",茶-HD
+http://clnas.heylc.com:4022/rtp/239.49.0.146:8000
+#EXTINF:-1 group-title="数字",茶-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.0.146:8000
+#EXTINF:-1 group-title="数字",金鹰卡通-HD
+http://114.222.8.67:8001/rtp/239.49.8.33:8000
+#EXTINF:-1 group-title="数字",金鹰卡通-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.33:8000
+#EXTINF:-1 group-title="数字",金鹰卡通-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.33:8000
+#EXTINF:-1 group-title="数字",金鹰卡通-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.33:8000
+#EXTINF:-1 group-title="数字",金鹰卡通-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.33:8000
+#EXTINF:-1 group-title="数字",金鹰纪实-HD
+http://114.222.8.67:8001/rtp/239.49.8.79:8000
+#EXTINF:-1 group-title="数字",金鹰纪实-HD
+http://dx.joygala.cn:8118/rtp/239.49.8.79:8000
+#EXTINF:-1 group-title="数字",金鹰纪实-HD
+http://j1900.silicaite.top:58888/rtp/239.49.8.79:8000
+#EXTINF:-1 group-title="数字",金鹰纪实-HD
+http://clnas.heylc.com:4022/rtp/239.49.8.79:8000
+#EXTINF:-1 group-title="数字",金鹰纪实-HD
+http://istoreos.sclvip.top:8787/rtp/239.49.8.79:8000
+#EXTINF:-1 group-title="数字",中国天气
+http://114.222.8.67:8001/rtp/239.49.1.58:6000
+#EXTINF:-1 group-title="数字",中国天气
+http://dx.joygala.cn:8118/rtp/239.49.1.58:6000
+#EXTINF:-1 group-title="数字",中国天气
+http://j1900.silicaite.top:58888/rtp/239.49.1.58:6000
+#EXTINF:-1 group-title="数字",中国天气
+http://clnas.heylc.com:4022/rtp/239.49.1.58:6000
+#EXTINF:-1 group-title="数字",中国天气
+http://istoreos.sclvip.top:8787/rtp/239.49.1.58:6000
+#EXTINF:-1 group-title="数字",央广健康
+http://114.222.8.67:8001/rtp/239.49.1.104:6000
+#EXTINF:-1 group-title="数字",央广健康
+http://dx.joygala.cn:8118/rtp/239.49.1.104:6000
+#EXTINF:-1 group-title="数字",央广健康
+http://j1900.silicaite.top:58888/rtp/239.49.1.104:6000
+#EXTINF:-1 group-title="数字",央广健康
+http://clnas.heylc.com:4022/rtp/239.49.1.104:6000
+#EXTINF:-1 group-title="数字",央广健康
+http://istoreos.sclvip.top:8787/rtp/239.49.1.104:6000
+#EXTINF:-1 group-title="数字",财富天下
+http://114.222.8.67:8001/rtp/239.49.0.166:9322
+#EXTINF:-1 group-title="数字",财富天下
+http://dx.joygala.cn:8118/rtp/239.49.0.166:9322
+#EXTINF:-1 group-title="数字",财富天下
+http://j1900.silicaite.top:58888/rtp/239.49.0.166:9322
+#EXTINF:-1 group-title="数字",财富天下
+http://clnas.heylc.com:4022/rtp/239.49.0.166:9322
+#EXTINF:-1 group-title="数字",财富天下
+http://istoreos.sclvip.top:8787/rtp/239.49.0.166:9322
 #EXTINF:-1 group-title="未分类",4KSDR
 http://114.222.8.67:8001/rtp/239.49.8.38:8632
 #EXTINF:-1 group-title="未分类",4KSDR
@@ -1899,16 +2119,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.72:8568
 http://clnas.heylc.com:4022/rtp/239.49.0.72:8568
 #EXTINF:-1 group-title="标清",CETV-4-SD
 http://istoreos.sclvip.top:8787/rtp/239.49.0.72:8568
-#EXTINF:-1 group-title="教育频道",CGTN
-http://114.222.8.67:8001/rtp/239.49.0.9:8064
-#EXTINF:-1 group-title="教育频道",CGTN
-http://dx.joygala.cn:8118/rtp/239.49.0.9:8064
-#EXTINF:-1 group-title="教育频道",CGTN
-http://j1900.silicaite.top:58888/rtp/239.49.0.9:8064
-#EXTINF:-1 group-title="教育频道",CGTN
-http://clnas.heylc.com:4022/rtp/239.49.0.9:8064
-#EXTINF:-1 group-title="教育频道",CGTN
-http://istoreos.sclvip.top:8787/rtp/239.49.0.9:8064
 #EXTINF:-1 group-title="标清",CGTN-英语-SD
 http://114.222.8.67:8001/rtp/239.49.1.9:6000
 #EXTINF:-1 group-title="标清",CGTN-英语-SD
@@ -2149,26 +2359,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.161:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.161:6000
 #EXTINF:-1 group-title="未分类",中国体彩3
 http://istoreos.sclvip.top:8787/rtp/239.49.1.161:6000
-#EXTINF:-1 group-title="未分类",中国天气
-http://114.222.8.67:8001/rtp/239.49.1.58:6000
-#EXTINF:-1 group-title="未分类",中国天气
-http://dx.joygala.cn:8118/rtp/239.49.1.58:6000
-#EXTINF:-1 group-title="未分类",中国天气
-http://j1900.silicaite.top:58888/rtp/239.49.1.58:6000
-#EXTINF:-1 group-title="未分类",中国天气
-http://clnas.heylc.com:4022/rtp/239.49.1.58:6000
-#EXTINF:-1 group-title="未分类",中国天气
-http://istoreos.sclvip.top:8787/rtp/239.49.1.58:6000
-#EXTINF:-1 group-title="数字",中国天气-HD
-http://114.222.8.67:8001/rtp/239.49.0.94:8000
-#EXTINF:-1 group-title="数字",中国天气-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.94:8000
-#EXTINF:-1 group-title="数字",中国天气-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.94:8000
-#EXTINF:-1 group-title="数字",中国天气-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.94:8000
-#EXTINF:-1 group-title="数字",中国天气-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.94:8000
 #EXTINF:-1 group-title="江苏",中学生-SD
 http://114.222.8.67:8001/rtp/239.49.1.82:8000
 #EXTINF:-1 group-title="江苏",中学生-SD
@@ -2209,16 +2399,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.8.44:8036
 http://clnas.heylc.com:4022/rtp/239.49.8.44:8036
 #EXTINF:-1 group-title="上海",乐游-HD
 http://istoreos.sclvip.top:8787/rtp/239.49.8.44:8036
-#EXTINF:-1 group-title="数字",书画-HD
-http://114.222.8.67:8001/rtp/239.49.0.123:8000
-#EXTINF:-1 group-title="数字",书画-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.123:8000
-#EXTINF:-1 group-title="数字",书画-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.123:8000
-#EXTINF:-1 group-title="数字",书画-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.123:8000
-#EXTINF:-1 group-title="数字",书画-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.123:8000
 #EXTINF:-1 group-title="标清",云南卫视-SD
 http://114.222.8.67:8001/rtp/239.49.0.147:8000
 #EXTINF:-1 group-title="标清",云南卫视-SD
@@ -2259,16 +2439,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.21:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.21:6000
 #EXTINF:-1 group-title="标清",优漫卡通-SD
 http://istoreos.sclvip.top:8787/rtp/239.49.1.21:6000
-#EXTINF:-1 group-title="数字",优购物-HD
-http://114.222.8.67:8001/rtp/239.49.0.85:8000
-#EXTINF:-1 group-title="数字",优购物-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.85:8000
-#EXTINF:-1 group-title="数字",优购物-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.85:8000
-#EXTINF:-1 group-title="数字",优购物-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.85:8000
-#EXTINF:-1 group-title="数字",优购物-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.85:8000
 #EXTINF:-1 group-title="标清",优购物-SD
 http://114.222.8.67:8001/rtp/239.49.0.84:8000
 #EXTINF:-1 group-title="标清",优购物-SD
@@ -2689,16 +2859,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.223:8000
 http://clnas.heylc.com:4022/rtp/239.49.0.223:8000
 #EXTINF:-1 group-title="江苏",南通新闻综合-SD
 http://istoreos.sclvip.top:8787/rtp/239.49.0.223:8000
-#EXTINF:-1 group-title="数字",卡酷少儿-HD
-http://114.222.8.67:8001/rtp/239.49.0.148:8000
-#EXTINF:-1 group-title="数字",卡酷少儿-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.148:8000
-#EXTINF:-1 group-title="数字",卡酷少儿-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.148:8000
-#EXTINF:-1 group-title="数字",卡酷少儿-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.148:8000
-#EXTINF:-1 group-title="数字",卡酷少儿-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.148:8000
 #EXTINF:-1 group-title="标清",厦门卫视-SD
 http://114.222.8.67:8001/rtp/239.49.0.230:8000
 #EXTINF:-1 group-title="标清",厦门卫视-SD
@@ -2769,16 +2929,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.65:8000
 http://clnas.heylc.com:4022/rtp/239.49.1.65:8000
 #EXTINF:-1 group-title="超高清",四川卫视-SDR
 http://istoreos.sclvip.top:8787/rtp/239.49.1.65:8000
-#EXTINF:-1 group-title="数字",四海钓鱼-HD
-http://114.222.8.67:8001/rtp/239.49.1.80:8000
-#EXTINF:-1 group-title="数字",四海钓鱼-HD
-http://dx.joygala.cn:8118/rtp/239.49.1.80:8000
-#EXTINF:-1 group-title="数字",四海钓鱼-HD
-http://j1900.silicaite.top:58888/rtp/239.49.1.80:8000
-#EXTINF:-1 group-title="数字",四海钓鱼-HD
-http://clnas.heylc.com:4022/rtp/239.49.1.80:8000
-#EXTINF:-1 group-title="数字",四海钓鱼-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.1.80:8000
 #EXTINF:-1 group-title="未分类",国语电影?-BESTV
 http://114.222.8.67:8001/rtp/239.49.1.198:6000
 #EXTINF:-1 group-title="未分类",国语电影?-BESTV
@@ -2819,16 +2969,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.8.73:8000
 http://clnas.heylc.com:4022/rtp/239.49.8.73:8000
 #EXTINF:-1 group-title="地方频道",多机位
 http://istoreos.sclvip.top:8787/rtp/239.49.8.73:8000
-#EXTINF:-1 group-title="数字",天元围棋-HD
-http://114.222.8.67:8001/rtp/239.49.1.79:8000
-#EXTINF:-1 group-title="数字",天元围棋-HD
-http://dx.joygala.cn:8118/rtp/239.49.1.79:8000
-#EXTINF:-1 group-title="数字",天元围棋-HD
-http://j1900.silicaite.top:58888/rtp/239.49.1.79:8000
-#EXTINF:-1 group-title="数字",天元围棋-HD
-http://clnas.heylc.com:4022/rtp/239.49.1.79:8000
-#EXTINF:-1 group-title="数字",天元围棋-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.1.79:8000
 #EXTINF:-1 group-title="标清",天津卫视-SD
 http://114.222.8.67:8001/rtp/239.49.1.46:6000
 #EXTINF:-1 group-title="标清",天津卫视-SD
@@ -2939,16 +3079,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.36:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.36:6000
 #EXTINF:-1 group-title="标清",安徽卫视-SD
 http://istoreos.sclvip.top:8787/rtp/239.49.1.36:6000
-#EXTINF:-1 group-title="数字",家有购物-HD
-http://114.222.8.67:8001/rtp/239.49.8.124:8000
-#EXTINF:-1 group-title="数字",家有购物-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.124:8000
-#EXTINF:-1 group-title="数字",家有购物-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.124:8000
-#EXTINF:-1 group-title="数字",家有购物-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.124:8000
-#EXTINF:-1 group-title="数字",家有购物-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.124:8000
 #EXTINF:-1 group-title="标清",家有购物-SD
 http://114.222.8.67:8001/rtp/239.49.0.87:8000
 #EXTINF:-1 group-title="标清",家有购物-SD
@@ -3639,16 +3769,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.199:8000
 http://clnas.heylc.com:4022/rtp/239.49.0.199:8000
 #EXTINF:-1 group-title="江苏",徐州经济生活-SD
 http://istoreos.sclvip.top:8787/rtp/239.49.0.199:8000
-#EXTINF:-1 group-title="数字",快乐垂钓-HD
-http://114.222.8.67:8001/rtp/239.49.0.114:8000
-#EXTINF:-1 group-title="数字",快乐垂钓-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.114:8000
-#EXTINF:-1 group-title="数字",快乐垂钓-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.114:8000
-#EXTINF:-1 group-title="数字",快乐垂钓-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.114:8000
-#EXTINF:-1 group-title="数字",快乐垂钓-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.114:8000
 #EXTINF:-1 group-title="央视;影视",怀旧剧场 HD
 http://114.222.8.67:8001/rtp/239.49.8.91:8000
 #EXTINF:-1 group-title="央视;影视",怀旧剧场 HD
@@ -3679,16 +3799,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.99:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.99:6000
 #EXTINF:-1 group-title="未分类",搏击俱乐部
 http://istoreos.sclvip.top:8787/rtp/239.49.1.99:6000
-#EXTINF:-1 group-title="数字",文物宝库-HD
-http://114.222.8.67:8001/rtp/239.49.0.209:8000
-#EXTINF:-1 group-title="数字",文物宝库-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.209:8000
-#EXTINF:-1 group-title="数字",文物宝库-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.209:8000
-#EXTINF:-1 group-title="数字",文物宝库-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.209:8000
-#EXTINF:-1 group-title="数字",文物宝库-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.209:8000
 #EXTINF:-1 group-title="未分类",新沂1
 http://114.222.8.67:8001/rtp/239.49.0.122:8000
 #EXTINF:-1 group-title="未分类",新沂1
@@ -3809,16 +3919,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.102:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.102:6000
 #EXTINF:-1 group-title="未分类",未知102
 http://istoreos.sclvip.top:8787/rtp/239.49.1.102:6000
-#EXTINF:-1 group-title="数字",梨园-HD
-http://114.222.8.67:8001/rtp/239.49.8.193:8000
-#EXTINF:-1 group-title="数字",梨园-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.193:8000
-#EXTINF:-1 group-title="数字",梨园-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.193:8000
-#EXTINF:-1 group-title="数字",梨园-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.193:8000
-#EXTINF:-1 group-title="数字",梨园-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.193:8000
 #EXTINF:-1 group-title="上海",欢笑剧场(高清)
 http://114.222.8.67:8001/rtp/239.49.8.182:6000
 #EXTINF:-1 group-title="上海",欢笑剧场(高清)
@@ -3869,16 +3969,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.118:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.118:6000
 #EXTINF:-1 group-title="未分类",欧美电影?-BESTV
 http://istoreos.sclvip.top:8787/rtp/239.49.1.118:6000
-#EXTINF:-1 group-title="数字",武术世界-HD
-http://114.222.8.67:8001/rtp/239.49.0.205:8000
-#EXTINF:-1 group-title="数字",武术世界-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.205:8000
-#EXTINF:-1 group-title="数字",武术世界-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.205:8000
-#EXTINF:-1 group-title="数字",武术世界-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.205:8000
-#EXTINF:-1 group-title="数字",武术世界-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.205:8000
 #EXTINF:-1 group-title="未分类",江苏4K演唱会
 http://114.222.8.67:8001/rtp/239.49.1.110:6000
 #EXTINF:-1 group-title="未分类",江苏4K演唱会
@@ -4049,16 +4139,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.124:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.124:6000
 #EXTINF:-1 group-title="未分类",江苏学习频道
 http://istoreos.sclvip.top:8787/rtp/239.49.1.124:6000
-#EXTINF:-1 group-title="未分类",江苏影视
-http://114.222.8.67:8001/rtp/239.49.0.20:8152
-#EXTINF:-1 group-title="未分类",江苏影视
-http://dx.joygala.cn:8118/rtp/239.49.0.20:8152
-#EXTINF:-1 group-title="未分类",江苏影视
-http://j1900.silicaite.top:58888/rtp/239.49.0.20:8152
-#EXTINF:-1 group-title="未分类",江苏影视
-http://clnas.heylc.com:4022/rtp/239.49.0.20:8152
-#EXTINF:-1 group-title="未分类",江苏影视
-http://istoreos.sclvip.top:8787/rtp/239.49.0.20:8152
 #EXTINF:-1 group-title="江苏",江苏影视-HD
 http://114.222.8.67:8001/rtp/239.49.8.118:8000
 #EXTINF:-1 group-title="江苏",江苏影视-HD
@@ -5039,46 +5119,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.211:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.211:6000
 #EXTINF:-1 group-title="未分类",看看新闻-标清
 http://istoreos.sclvip.top:8787/rtp/239.49.1.211:6000
-#EXTINF:-1 group-title="数字",睛彩广场舞-HD
-http://114.222.8.67:8001/rtp/239.49.8.64:8000
-#EXTINF:-1 group-title="数字",睛彩广场舞-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.64:8000
-#EXTINF:-1 group-title="数字",睛彩广场舞-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.64:8000
-#EXTINF:-1 group-title="数字",睛彩广场舞-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.64:8000
-#EXTINF:-1 group-title="数字",睛彩广场舞-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.64:8000
-#EXTINF:-1 group-title="数字",睛彩竞技-HD
-http://114.222.8.67:8001/rtp/239.49.8.39:8000
-#EXTINF:-1 group-title="数字",睛彩竞技-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.39:8000
-#EXTINF:-1 group-title="数字",睛彩竞技-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.39:8000
-#EXTINF:-1 group-title="数字",睛彩竞技-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.39:8000
-#EXTINF:-1 group-title="数字",睛彩竞技-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.39:8000
-#EXTINF:-1 group-title="数字",睛彩篮球-HD
-http://114.222.8.67:8001/rtp/239.49.8.42:8000
-#EXTINF:-1 group-title="数字",睛彩篮球-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.42:8000
-#EXTINF:-1 group-title="数字",睛彩篮球-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.42:8000
-#EXTINF:-1 group-title="数字",睛彩篮球-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.42:8000
-#EXTINF:-1 group-title="数字",睛彩篮球-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.42:8000
-#EXTINF:-1 group-title="数字",睛彩青少-HD
-http://114.222.8.67:8001/rtp/239.49.8.46:8000
-#EXTINF:-1 group-title="数字",睛彩青少-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.46:8000
-#EXTINF:-1 group-title="数字",睛彩青少-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.46:8000
-#EXTINF:-1 group-title="数字",睛彩青少-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.46:8000
-#EXTINF:-1 group-title="数字",睛彩青少-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.46:8000
 #EXTINF:-1 group-title="未分类",睢宁综合
 http://114.222.8.67:8001/rtp/239.49.1.246:6000
 #EXTINF:-1 group-title="未分类",睢宁综合
@@ -5179,16 +5219,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.197:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.197:6000
 #EXTINF:-1 group-title="未分类",美国电影?-BESTV
 http://istoreos.sclvip.top:8787/rtp/239.49.1.197:6000
-#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
-http://114.222.8.67:8001/rtp/239.49.8.123:8000
-#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.123:8000
-#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.123:8000
-#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.123:8000
-#EXTINF:-1 group-title="数字",聚鲨环球精选-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.123:8000
 #EXTINF:-1 group-title="标清",聚鲨精选-SD
 http://114.222.8.67:8001/rtp/239.49.0.212:8000
 #EXTINF:-1 group-title="标清",聚鲨精选-SD
@@ -5239,16 +5269,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.8.152:6000
 http://clnas.heylc.com:4022/rtp/239.49.8.152:6000
 #EXTINF:-1 group-title="未分类",英雄联盟(高清)
 http://istoreos.sclvip.top:8787/rtp/239.49.8.152:6000
-#EXTINF:-1 group-title="数字",茶-HD
-http://114.222.8.67:8001/rtp/239.49.0.146:8000
-#EXTINF:-1 group-title="数字",茶-HD
-http://dx.joygala.cn:8118/rtp/239.49.0.146:8000
-#EXTINF:-1 group-title="数字",茶-HD
-http://j1900.silicaite.top:58888/rtp/239.49.0.146:8000
-#EXTINF:-1 group-title="数字",茶-HD
-http://clnas.heylc.com:4022/rtp/239.49.0.146:8000
-#EXTINF:-1 group-title="数字",茶-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.0.146:8000
 #EXTINF:-1 group-title="标清",西藏卫视-SD
 http://114.222.8.67:8001/rtp/239.49.0.245:8000
 #EXTINF:-1 group-title="标清",西藏卫视-SD
@@ -5279,16 +5299,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.0.196:9482
 http://clnas.heylc.com:4022/rtp/239.49.0.196:9482
 #EXTINF:-1 group-title="未分类",谍战悬疑
 http://istoreos.sclvip.top:8787/rtp/239.49.0.196:9482
-#EXTINF:-1 group-title="江苏;财经",财富天下
-http://114.222.8.67:8001/rtp/239.49.0.166:9322
-#EXTINF:-1 group-title="江苏;财经",财富天下
-http://dx.joygala.cn:8118/rtp/239.49.0.166:9322
-#EXTINF:-1 group-title="江苏;财经",财富天下
-http://j1900.silicaite.top:58888/rtp/239.49.0.166:9322
-#EXTINF:-1 group-title="江苏;财经",财富天下
-http://clnas.heylc.com:4022/rtp/239.49.0.166:9322
-#EXTINF:-1 group-title="江苏;财经",财富天下
-http://istoreos.sclvip.top:8787/rtp/239.49.0.166:9322
 #EXTINF:-1 group-title="标清",财富天下-SD
 http://114.222.8.67:8001/rtp/239.49.1.29:6000
 #EXTINF:-1 group-title="标清",财富天下-SD
@@ -5529,26 +5539,6 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.169:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.169:6000
 #EXTINF:-1 group-title="未分类",金色频道
 http://istoreos.sclvip.top:8787/rtp/239.49.1.169:6000
-#EXTINF:-1 group-title="数字",金鹰卡通-HD
-http://114.222.8.67:8001/rtp/239.49.8.33:8000
-#EXTINF:-1 group-title="数字",金鹰卡通-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.33:8000
-#EXTINF:-1 group-title="数字",金鹰卡通-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.33:8000
-#EXTINF:-1 group-title="数字",金鹰卡通-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.33:8000
-#EXTINF:-1 group-title="数字",金鹰卡通-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.33:8000
-#EXTINF:-1 group-title="数字",金鹰纪实-HD
-http://114.222.8.67:8001/rtp/239.49.8.79:8000
-#EXTINF:-1 group-title="数字",金鹰纪实-HD
-http://dx.joygala.cn:8118/rtp/239.49.8.79:8000
-#EXTINF:-1 group-title="数字",金鹰纪实-HD
-http://j1900.silicaite.top:58888/rtp/239.49.8.79:8000
-#EXTINF:-1 group-title="数字",金鹰纪实-HD
-http://clnas.heylc.com:4022/rtp/239.49.8.79:8000
-#EXTINF:-1 group-title="数字",金鹰纪实-HD
-http://istoreos.sclvip.top:8787/rtp/239.49.8.79:8000
 #EXTINF:-1 group-title="未分类",铁血军事
 http://114.222.8.67:8001/rtp/239.49.0.202:9506
 #EXTINF:-1 group-title="未分类",铁血军事
@@ -5729,6 +5719,16 @@ http://j1900.silicaite.top:58888/rtp/239.49.1.50:6000
 http://clnas.heylc.com:4022/rtp/239.49.1.50:6000
 #EXTINF:-1 group-title="标清",黑龙江卫视-SD
 http://istoreos.sclvip.top:8787/rtp/239.49.1.50:6000
+#EXTINF:-1 group-title="",东南卫视
+http://114.222.8.67:8001/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="",东南卫视
+http://dx.joygala.cn:8118/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="",东南卫视
+http://j1900.silicaite.top:58888/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="",东南卫视
+http://clnas.heylc.com:4022/rtp/239.49.0.61:8480
+#EXTINF:-1 group-title="",东南卫视
+http://istoreos.sclvip.top:8787/rtp/239.49.0.61:8480
 
-#EXTINF:-1 group-title="更新时间",2026/04/29 23:11
+#EXTINF:-1 group-title="更新时间",2026/04/29 23:55
 https://taoiptv.com/time.mp4
