@@ -1304,4 +1304,4 @@ IPTV-卫视,#genre#
 山东教育卫视,http://yanshifen.top:8889/rtp/239.77.1.35:5146
 
 更新时间,#genre#
-2026/04/29 23:55,https://taoiptv.com/time.mp4
+2026/04/29 23:58,https://taoiptv.com/time.mp4
