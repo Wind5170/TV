@@ -1205,4 +1205,4 @@ CETV-4高清,http://yanshifen.top:8889/rtp/239.253.43.114:5146
 爱体育高清,http://yanshifen.top:8889/rtp/239.77.1.116:5146
 
 更新时间,#genre#
-2026/04/29 17:17,https://taoiptv.com/time.mp4
+2026/04/29 17:24,https://taoiptv.com/time.mp4
