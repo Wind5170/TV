@@ -1051,4 +1051,4 @@ CCTV16-SDR,http://istoreos.sclvip.top:8787/rtp/239.49.0.109:8000
 聚鲨精选,http://istoreos.sclvip.top:8787/rtp/239.49.0.212:8000
 
 更新时间,#genre#
-2026/04/29 17:17,https://taoiptv.com/time.mp4
+2026/04/29 17:24,https://taoiptv.com/time.mp4
