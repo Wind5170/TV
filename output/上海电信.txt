@@ -340,4 +340,4 @@ CCTV1,http://home888.uttcare.com:8889/rtp/233.18.204.168:5140
 CCTV1,http://shenhua.asuscomm.com:8888/rtp/233.18.204.168:5140
 
 更新时间,#genre#
-2026/04/29 17:17,https://taoiptv.com/time.mp4
+2026/04/29 17:24,https://taoiptv.com/time.mp4
