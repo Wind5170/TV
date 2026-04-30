@@ -711,12 +711,6 @@ BesTV百视通,http://shenhua.asuscomm.com:8888/rtp/233.18.204.116:5140
 都市频道,http://wsc2007123.myds.me:30100/rtp/233.18.204.53:5140
 都市频道,http://home888.uttcare.com:8889/rtp/233.18.204.53:5140
 都市频道,http://shenhua.asuscomm.com:8888/rtp/233.18.204.53:5140
-# 格式: 分类,#genre#
-频道名,http://yyf1991.top:9999/rtp/组播地址
-频道名,http://cx.shscxzx.cn:8899/rtp/组播地址
-频道名,http://wsc2007123.myds.me:30100/rtp/组播地址
-频道名,http://home888.uttcare.com:8889/rtp/组播地址
-频道名,http://shenhua.asuscomm.com:8888/rtp/组播地址
 
 更新时间,#genre#
-2026/04/30 10:34,https://taoiptv.com/time.mp4
+2026/04/30 11:02,https://taoiptv.com/time.mp4
