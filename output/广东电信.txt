@@ -498,12 +498,22 @@ CGTN西班牙语高清,http://www.maomizi.cn:9530/rtp/239.77.0.221:5146
 CGTN西班牙语高清,http://unraid.cyruslee.top:8888/rtp/239.77.0.221:5146
 CGTN西班牙语高清,http://home.8v8.fun:4333/rtp/239.77.0.221:5146
 CGTN西班牙语高清,http://yanshifen.top:8889/rtp/239.77.0.221:5146
+CGTN阿拉伯语高清,http://maomizi.cn:9527/rtp/239.253.43.200:5146
+CGTN阿拉伯语高清,http://www.maomizi.cn:9530/rtp/239.253.43.200:5146
+CGTN阿拉伯语高清,http://unraid.cyruslee.top:8888/rtp/239.253.43.200:5146
+CGTN阿拉伯语高清,http://home.8v8.fun:4333/rtp/239.253.43.200:5146
+CGTN阿拉伯语高清,http://yanshifen.top:8889/rtp/239.253.43.200:5146
 IPTV-IPTV频道,#genre#
 IPTV3+,http://maomizi.cn:9527/rtp/239.77.1.78:5146
 IPTV3+,http://www.maomizi.cn:9530/rtp/239.77.1.78:5146
 IPTV3+,http://unraid.cyruslee.top:8888/rtp/239.77.1.78:5146
 IPTV3+,http://home.8v8.fun:4333/rtp/239.77.1.78:5146
 IPTV3+,http://yanshifen.top:8889/rtp/239.77.1.78:5146
+IPTV3高清,http://maomizi.cn:9527/rtp/239.77.1.9:5146
+IPTV3高清,http://www.maomizi.cn:9530/rtp/239.77.1.9:5146
+IPTV3高清,http://unraid.cyruslee.top:8888/rtp/239.77.1.9:5146
+IPTV3高清,http://home.8v8.fun:4333/rtp/239.77.1.9:5146
+IPTV3高清,http://yanshifen.top:8889/rtp/239.77.1.9:5146
 IPTV5+高清,http://maomizi.cn:9527/rtp/239.77.1.116:5146
 IPTV5+高清,http://www.maomizi.cn:9530/rtp/239.77.1.116:5146
 IPTV5+高清,http://unraid.cyruslee.top:8888/rtp/239.77.1.116:5146
@@ -565,6 +575,12 @@ IPTV频道,http://www.maomizi.cn:9530/rtp/239.77.0.193:5146
 IPTV频道,http://unraid.cyruslee.top:8888/rtp/239.77.0.193:5146
 IPTV频道,http://home.8v8.fun:4333/rtp/239.77.0.193:5146
 IPTV频道,http://yanshifen.top:8889/rtp/239.77.0.193:5146
+IPTV-IPTV频道,#genre#
+IPTV魅力时尚,http://maomizi.cn:9527/rtp/239.77.1.88:5146
+IPTV魅力时尚,http://www.maomizi.cn:9530/rtp/239.77.1.88:5146
+IPTV魅力时尚,http://unraid.cyruslee.top:8888/rtp/239.77.1.88:5146
+IPTV魅力时尚,http://home.8v8.fun:4333/rtp/239.77.1.88:5146
+IPTV魅力时尚,http://yanshifen.top:8889/rtp/239.77.1.88:5146
 IPTV-央视网台,#genre#
 世界地理高清,http://maomizi.cn:9527/rtp/239.253.43.7:5146
 世界地理高清,http://www.maomizi.cn:9530/rtp/239.253.43.7:5146
@@ -1604,12 +1620,6 @@ IPTV-广东地方台,#genre#
 韶关绿色生活高清,http://unraid.cyruslee.top:8888/rtp/239.77.0.119:5146
 韶关绿色生活高清,http://home.8v8.fun:4333/rtp/239.77.0.119:5146
 韶关绿色生活高清,http://yanshifen.top:8889/rtp/239.77.0.119:5146
-# 格式: 分类,#genre#
-频道名,http://maomizi.cn:9527/rtp/组播地址
-频道名,http://www.maomizi.cn:9530/rtp/组播地址
-频道名,http://unraid.cyruslee.top:8888/rtp/组播地址
-频道名,http://home.8v8.fun:4333/rtp/组播地址
-频道名,http://yanshifen.top:8889/rtp/组播地址
 广东,#genre#
 风云剧场高清,http://maomizi.cn:9527/rtp/239.253.43.26:5146
 风云剧场高清,http://www.maomizi.cn:9530/rtp/239.253.43.26:5146
@@ -1681,4 +1691,4 @@ IPTV-卫视,#genre#
 山东教育卫视,http://yanshifen.top:8889/rtp/239.77.1.35:5146
 
 更新时间,#genre#
-2026/04/30 10:34,https://taoiptv.com/time.mp4
+2026/04/30 11:02,https://taoiptv.com/time.mp4
