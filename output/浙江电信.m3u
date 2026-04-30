@@ -3079,16 +3079,6 @@ http://zjhuct.icu:8889/rtp/233.50.201.177:5140
 http://hs.hejd.net:7088/rtp/233.50.201.177:5140
 #EXTINF:-1 group-title="浙江",青少体育
 http://t.zjhuct.icu:8889/rtp/233.50.201.177:5140
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://renhaifeng.synology.me:4022/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://zjhuct.synology.me:8881/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://zjhuct.icu:8889/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://hs.hejd.net:7088/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://t.zjhuct.icu:8889/rtp/组播地址
 #EXTINF:-1 group-title="",东南卫视
 http://renhaifeng.synology.me:4022/rtp/233.50.200.67:5140
 #EXTINF:-1 group-title="",东南卫视
@@ -3120,5 +3110,5 @@ http://hs.hejd.net:7088/rtp/233.50.201.58:5140
 #EXTINF:-1 group-title="",东南卫视
 http://t.zjhuct.icu:8889/rtp/233.50.201.58:5140
 
-#EXTINF:-1 group-title="更新时间",2026/04/30 10:34
+#EXTINF:-1 group-title="更新时间",2026/04/30 11:02
 https://taoiptv.com/time.mp4
