@@ -1389,16 +1389,6 @@ http://wsc2007123.myds.me:30100/rtp/233.18.204.53:5140
 http://home888.uttcare.com:8889/rtp/233.18.204.53:5140
 #EXTINF:-1 group-title="其他频道",都市频道
 http://shenhua.asuscomm.com:8888/rtp/233.18.204.53:5140
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://yyf1991.top:9999/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://cx.shscxzx.cn:8899/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://wsc2007123.myds.me:30100/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://home888.uttcare.com:8889/rtp/组播地址
-#EXTINF:-1 group-title="# 格式: 分类",频道名
-http://shenhua.asuscomm.com:8888/rtp/组播地址
 
-#EXTINF:-1 group-title="更新时间",2026/04/30 10:34
+#EXTINF:-1 group-title="更新时间",2026/04/30 11:02
 https://taoiptv.com/time.mp4
