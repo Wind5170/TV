@@ -1632,12 +1632,6 @@ CETV-4-SD,http://istoreos.sclvip.top:8787/rtp/239.49.0.72:8568
 陕西卫视-SD,http://j1900.silicaite.top:58888/rtp/239.49.0.233:8000
 陕西卫视-SD,http://clnas.heylc.com:4022/rtp/239.49.0.233:8000
 陕西卫视-SD,http://istoreos.sclvip.top:8787/rtp/239.49.0.233:8000
-# 格式: 分类,#genre#
-频道名,http://114.222.8.67:8001/rtp/组播地址
-频道名,http://dx.joygala.cn:8118/rtp/组播地址
-频道名,http://j1900.silicaite.top:58888/rtp/组播地址
-频道名,http://clnas.heylc.com:4022/rtp/组播地址
-频道名,http://istoreos.sclvip.top:8787/rtp/组播地址
 江苏,#genre#
 高淳新闻,http://114.222.8.67:8001/rtp/239.49.0.74:8000
 高淳新闻,http://dx.joygala.cn:8118/rtp/239.49.0.74:8000
@@ -1657,4 +1651,4 @@ CETV-4-SD,http://istoreos.sclvip.top:8787/rtp/239.49.0.72:8568
 东南卫视,http://istoreos.sclvip.top:8787/rtp/239.49.0.61:8480
 
 更新时间,#genre#
-2026/04/30 10:34,https://taoiptv.com/time.mp4
+2026/04/30 11:02,https://taoiptv.com/time.mp4
