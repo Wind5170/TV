@@ -43,36 +43,23 @@ REGIONS = [
 
 
 # ==================== 城市列表获取 ====================
-def get_cities_from_rtp_dir(rtp_dir: str = "rtp") -> List[str]:
-    """从 rtp 目录读取城市列表"""
+def get_cities_from_template_dir(template_dir: str = "template") -> List[str]:
+    """从 template 目录读取城市列表（根据模板文件名）"""
     cities = []
-    if not os.path.exists(rtp_dir):
+    if not os.path.exists(template_dir):
+        print(f"警告：模板目录不存在 - {template_dir}")
         return cities
     
-    skip_suffixes = ['_source', '_checked', '_result', '_precise', '_history', '_quick', '_probe', '_extracted']
-    skip_prefixes = ['template_']
-    
-    for filename in os.listdir(rtp_dir):
+    for filename in os.listdir(template_dir):
         if not filename.endswith('.txt'):
             continue
         
-        should_skip = False
-        for suffix in skip_suffixes:
-            if filename.endswith(f"{suffix}.txt"):
-                should_skip = True
-                break
-        if not should_skip:
-            for prefix in skip_prefixes:
-                if filename.startswith(prefix):
-                    should_skip = True
-                    break
-        
-        if should_skip:
-            continue
-        
-        cities.append(filename.replace('.txt', ''))
+        if filename.startswith('template_'):
+            city_name = filename.replace('template_', '').replace('.txt', '')
+            if city_name:
+                cities.append(city_name)
     
-    cities.sort()
+    # 注意：不在这里排序，由调用方使用 sort_cities()
     return cities
 
 
@@ -133,10 +120,15 @@ def load_zubo_cities(zubo_cities_file: str = "config/zubo_cities.txt") -> Set[st
     return set()
 
 
-def print_city_list() -> str:
-    cities = get_cities_from_rtp_dir()
+def print_city_list(sort_mode: str = "city_first") -> str:
+    """打印城市列表（从模板文件获取，使用自定义排序）"""
+    cities = get_cities_from_template_dir()
     if not cities:
-        return "未找到任何城市文件"
+        return "未找到任何模板文件（template/template_*.txt）"
+    
+    # 使用自定义排序
+    cities = sort_cities(cities, sort_mode)
+    
     lines = []
     cols = 5
     for i in range(0, len(cities), cols):
@@ -618,9 +610,10 @@ def generate_all_playlists(max_servers: int, local_first: bool,
         source_names.append("快速测试(quick)")
     print(f"服务器源: {', '.join(source_names)}")
     
-    all_cities = get_cities_from_rtp_dir()
+    # 从 template 目录获取城市列表
+    all_cities = get_cities_from_template_dir()
     if not all_cities:
-        print("错误：未找到任何城市文件")
+        print("错误：未找到任何模板文件，请检查 template 目录下的 template_*.txt 文件")
         return
     
     cities = sort_cities(all_cities, sort_mode)
@@ -800,12 +793,12 @@ def main():
         source_names.append("快速测试(quick)")
     print(f"服务器源: {', '.join(source_names)}")
 
-    # 获取城市列表
-    cities = get_cities_from_rtp_dir()
+     # 获取城市列表（从 template 目录）
+    cities = get_cities_from_template_dir()
     
     if not cities:
-        print("错误：未找到任何城市文件，请检查 rtp 目录")
-        return
+        print("错误：未找到任何模板文件，请检查 template 目录下的 template_*.txt 文件")
+        return   
 
     # 情况1: 指定 --all 参数
     if args.all:
@@ -836,7 +829,7 @@ def main():
 
     # 情况3: 交互模式
     print("\n可用的城市列表:")
-    print(print_city_list())
+    print(print_city_list(sort_mode))  # 传入排序模式
     print()
 
     while True:
