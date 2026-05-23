@@ -1,4 +1,4 @@
-# 20260523_0153_precise_slow
+# 20260523_0630_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://125.86.26.68:8003	433.35 KB/s	433.4
-http://www.wpfhome.cn:5555	98.42 KB/s	98.4
+http://125.86.26.68:8003	386.34 KB/s	386.3
+http://www.wpfhome.cn:5555	113.77 KB/s	113.8
