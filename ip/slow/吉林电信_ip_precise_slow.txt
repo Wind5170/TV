@@ -1,3 +1,4 @@
-# 20260530_0649_precise_slow
+# 20260530_0955_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://tv.yzzdxc.cn:16666	366.75 KB/s	366.8
+http://36.49.53.61:8800	354.95 KB/s	354.9
+http://tv.yzzdxc.cn:16666	310.68 KB/s	310.7
