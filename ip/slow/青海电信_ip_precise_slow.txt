@@ -1,3 +1,3 @@
-# 20260531_1700_precise_slow
+# 20260531_2055_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://9ge1.cc:4000	349.25 KB/s	349.2
+http://9ge1.cc:4000	404.43 KB/s	404.4
