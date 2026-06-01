@@ -1,4 +1,4 @@
-# 20260601_1724_precise_slow
+# 20260601_2241_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://1.83.156.178:26000	482.61 KB/s	482.6
-http://www.gaolao.top:8008	398.31 KB/s	398.3
+http://1.83.156.178:26000	424.68 KB/s	424.7
+http://www.gaolao.top:8008	381.44 KB/s	381.4
