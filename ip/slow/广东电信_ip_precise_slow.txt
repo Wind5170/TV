@@ -1,8 +1,12 @@
-# 20260602_2220_precise_slow
+# 20260603_0234_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://14.217.222.0:8188	498.18 KB/s	498.2
-http://home.8v8.fun:4333	486.97 KB/s	487.0
-http://www.yahao.host:4022	445.18 KB/s	445.2
-http://www.ruoshui.uno:554	106.42 KB/s	106.4
-http://183.236.43.98:4111	68.18 KB/s	68.2
-http://udp2.gdsz.eu.org:8888	1.81 KB/s	1.8
+http://113.119.25.156:58888	459.54 KB/s	459.5
+http://113.110.77.43:8188	457.06 KB/s	457.1
+http://home.8v8.fun:4333	445.08 KB/s	445.1
+http://www.yahao.host:4022	425.49 KB/s	425.5
+http://14.217.222.0:8188	419.48 KB/s	419.5
+http://59.35.185.47:8188	392.73 KB/s	392.7
+http://183.236.43.98:4111	371.84 KB/s	371.8
+http://113.65.124.131:9530	182.50 KB/s	182.5
+http://udp2.gdsz.eu.org:8888	156.93 KB/s	156.9
+http://www.ruoshui.uno:554	117.09 KB/s	117.1
