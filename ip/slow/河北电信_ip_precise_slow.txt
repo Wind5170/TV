@@ -1,6 +1,6 @@
-# 20260603_2225_precise_slow
+# 20260604_0236_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://106.116.126.99:4022	352.75 KB/s	352.8
-http://share.xlangnan.cn:10316	173.76 KB/s	173.8
-http://27.184.29.150:12312	11.62 KB/s	11.6
-http://yaching.xmtcenter.com:9999	1.38 KB/s	1.4
+http://106.116.126.99:4022	367.96 KB/s	368.0
+http://yaching.xmtcenter.com:9999	242.35 KB/s	242.3
+http://share.xlangnan.cn:10316	158.30 KB/s	158.3
+http://27.184.29.150:12312	9.52 KB/s	9.5
