@@ -1,3 +1,4 @@
-# 20260611_2200_precise_slow
+# 20260612_0214_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://zhangkx717.cn:9999	447.60 KB/s	447.6
+http://171.83.43.52:52057	425.67 KB/s	425.7
+http://zhangkx717.cn:9999	147.62 KB/s	147.6
