@@ -1,4 +1,4 @@
-# 20260627_1311_precise_slow
+# 20260627_1703_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://wddpmpc.sosos.run:4022	331.60 KB/s	331.6
-http://www.gaolao.top:8008	294.20 KB/s	294.2
+http://www.gaolao.top:8008	390.39 KB/s	390.4
+http://wddpmpc.sosos.run:4022	375.89 KB/s	375.9
