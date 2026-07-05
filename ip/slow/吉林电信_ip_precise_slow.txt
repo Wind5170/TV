@@ -1,4 +1,4 @@
-# 20260705_0152_precise_slow
+# 20260705_0704_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://36.49.50.4:8800	455.71 KB/s	455.7
-http://nas.yzzdxc.cn:16666	388.41 KB/s	388.4
+http://36.49.50.4:8800	343.35 KB/s	343.4
+http://nas.yzzdxc.cn:16666	286.01 KB/s	286.0
