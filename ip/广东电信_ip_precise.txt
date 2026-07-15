@@ -1,5 +1,0 @@
-# 20260715_0112_precise
-# 服务器地址	速度	速度(KB/s)
-http://home.8v8.fun:4333	525.94 KB/s	525.9
-http://www.guangyuan.site:8188	521.42 KB/s	521.4
-http://113.110.77.186:8188	505.73 KB/s	505.7
