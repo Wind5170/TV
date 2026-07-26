@@ -1,4 +1,4 @@
-# 20260726_1645_precise_slow
+# 20260726_2045_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://share.xlangnan.cn:10316	369.74 KB/s	369.7
-http://111.226.211.223:8188	264.14 KB/s	264.1
+http://111.226.211.223:8188	393.00 KB/s	393.0
+http://share.xlangnan.cn:10316	348.41 KB/s	348.4
