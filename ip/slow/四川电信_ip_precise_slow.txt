@@ -1,5 +1,6 @@
-# 20260728_0123_precise_slow
+# 20260728_0622_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://182.135.66.163:18888	497.67 KB/s	497.7
-http://wan1.tangwudi.cc:47859	382.78 KB/s	382.8
-http://hhska.3322.org:8096	226.90 KB/s	226.9
+http://wan1.tangwudi.cc:47859	276.97 KB/s	277.0
+http://182.135.66.163:1888	63.94 KB/s	63.9
+http://182.135.66.163:18888	63.48 KB/s	63.5
+http://hhska.3322.org:8096	52.96 KB/s	53.0
