@@ -1,4 +1,4 @@
-# 20260730_0113_precise_slow
+# 20260730_0616_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://remote.jackye.site:8000	367.34 KB/s	367.3
-http://woc.iiiya.cn:18888	309.70 KB/s	309.7
+http://woc.iiiya.cn:18888	441.14 KB/s	441.1
+http://remote.jackye.site:8000	237.93 KB/s	237.9
