@@ -1,6 +1,6 @@
-# 20260808_2018_precise_slow
+# 20260809_0047_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://rongrong.synology.me:14022	411.74 KB/s	411.7
-http://www.yyf1991.top:9999	313.79 KB/s	313.8
-http://youngx.top:4022	298.82 KB/s	298.8
-http://180.159.68.231:4022	87.38 KB/s	87.4
+http://rongrong.synology.me:14022	459.22 KB/s	459.2
+http://youngx.top:4022	320.60 KB/s	320.6
+http://180.159.68.231:4022	73.78 KB/s	73.8
+http://www.yyf1991.top:9999	1.70 KB/s	1.7
