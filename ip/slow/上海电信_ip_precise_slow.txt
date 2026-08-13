@@ -1,4 +1,5 @@
-# 20260813_0531_precise_slow
+# 20260813_0905_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://180.159.68.231:4022	65.48 KB/s	65.5
-http://www.yyf1991.top:9999	0.67 KB/s	0.7
+http://rongrong.synology.me:14022	364.26 KB/s	364.3
+http://180.159.68.231:4022	58.04 KB/s	58.0
+http://www.yyf1991.top:9999	36.07 KB/s	36.1
