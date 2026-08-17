@@ -1,4 +1,4 @@
-# 20260817_0432_precise_slow
+# 20260817_0832_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://www.zlizi.cn:4023	165.61 KB/s	165.6
-http://58.46.31.60:8188	165.32 KB/s	165.3
+http://www.zlizi.cn:4023	184.92 KB/s	184.9
+http://58.46.31.60:8188	179.68 KB/s	179.7
