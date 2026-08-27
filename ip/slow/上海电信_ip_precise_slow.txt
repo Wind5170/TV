@@ -1,3 +1,4 @@
-# 20260826_2241_precise_slow
+# 20260827_1838_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://rongrong.synology.me:14022	420.82 KB/s	420.8
+http://116.233.67.80:8899	474.45 KB/s	474.4
+http://rongrong.synology.me:14022	450.23 KB/s	450.2
