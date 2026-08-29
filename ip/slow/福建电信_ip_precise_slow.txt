@@ -1,3 +1,3 @@
-# 20260828_1545_precise_slow
+# 20260829_0013_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://woc.iiiya.cn:18888	212.96 KB/s	213.0
+http://woc.iiiya.cn:18888	473.52 KB/s	473.5
