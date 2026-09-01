@@ -1,3 +1,4 @@
-# 20260901_1857_precise_slow
+# 20260901_2212_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://www.wpfhome.cn:5555	108.14 KB/s	108.1
+http://www.wpfhome.cn:5555	107.55 KB/s	107.5
+http://183.66.66.199:2345	11.15 KB/s	11.2
