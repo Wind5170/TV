@@ -1,3 +1,5 @@
-# 20260909_0157_precise_slow
+# 20260909_0833_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://wan1.tangwudi.cc:47859	405.53 KB/s	405.5
+http://182.135.66.163:18888	460.06 KB/s	460.1
+http://182.135.66.163:1888	459.71 KB/s	459.7
+http://wan1.tangwudi.cc:47859	368.73 KB/s	368.7
