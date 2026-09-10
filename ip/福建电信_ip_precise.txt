@@ -1,3 +1,0 @@
-# 20260910_0828_precise
-# 服务器地址	速度	速度(KB/s)
-http://remote.jackye.site:8000	511.44 KB/s	511.4
