@@ -1,12 +1,9 @@
-# 20260920_0158_precise_slow
+# 20260920_0854_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://183.236.43.98:4111	466.49 KB/s	466.5
-http://183.236.43.98:4013	465.82 KB/s	465.8
-http://183.51.190.156:6633	442.43 KB/s	442.4
-http://113.110.77.154:8188	437.83 KB/s	437.8
-http://udp2.gdsz.eu.org:8888	404.96 KB/s	405.0
-http://www.guangyuan.site:8188	402.84 KB/s	402.8
-http://home.8v8.fun:4333	396.51 KB/s	396.5
-http://www.yahao.host:4022	378.25 KB/s	378.2
-http://line1.huase.ltd:8888	377.99 KB/s	378.0
-http://113.101.245.37:9988	249.89 KB/s	249.9
+http://183.236.43.98:4013	461.71 KB/s	461.7
+http://183.236.43.98:4111	455.54 KB/s	455.5
+http://www.yahao.host:4022	454.73 KB/s	454.7
+http://line1.huase.ltd:8888	445.18 KB/s	445.2
+http://www.guangyuan.site:8188	428.04 KB/s	428.0
+http://udp2.gdsz.eu.org:8888	408.19 KB/s	408.2
+http://113.101.245.37:9988	226.01 KB/s	226.0
