@@ -1,4 +1,4 @@
-# 20261003_0934_precise_slow
+# 20261003_1525_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://rongrong.synology.me:14022	426.51 KB/s	426.5
-http://www.yyf1991.top:9999	128.34 KB/s	128.3
+http://rongrong.synology.me:14022	379.20 KB/s	379.2
+http://www.yyf1991.top:9999	249.30 KB/s	249.3
