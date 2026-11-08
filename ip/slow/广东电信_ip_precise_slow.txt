@@ -1,4 +1,8 @@
-# 20261108_0257_precise_slow
+# 20261108_1052_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://udp2.gdsz.eu.org:8888	464.57 KB/s	464.6
-http://113.46.194.7:8140	45.67 KB/s	45.7
+http://183.236.43.98:4111	478.66 KB/s	478.7
+http://183.236.43.98:4013	477.94 KB/s	477.9
+http://www.guangyuan.site:8188	464.92 KB/s	464.9
+http://home.8v8.fun:4333	458.83 KB/s	458.8
+http://udp2.gdsz.eu.org:8888	411.77 KB/s	411.8
+http://113.46.194.7:8140	43.29 KB/s	43.3
