@@ -1,0 +1,9 @@
+# 20261112_1921_precise
+# 服务器地址	速度	速度(KB/s)
+http://183.236.43.98:4111	597.99 KB/s	598.0
+http://59.32.96.26:8000	594.09 KB/s	594.1
+http://home.8v8.fun:4333	579.41 KB/s	579.4
+http://www.yahao.host:4022	558.42 KB/s	558.4
+http://125.89.163.44:8888	554.15 KB/s	554.1
+http://line1.huase.ltd:8888	540.02 KB/s	540.0
+http://www.guangyuan.site:8188	532.64 KB/s	532.6
