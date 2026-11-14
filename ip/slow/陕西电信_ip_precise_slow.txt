@@ -1,3 +1,4 @@
-# 20261114_1108_precise_slow
+# 20261114_1728_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://wddpmpc.sosos.run:4022	163.84 KB/s	163.8
+http://wddpmpc.sosos.run:4022	280.53 KB/s	280.5
+http://36.46.67.23:4022	278.62 KB/s	278.6
