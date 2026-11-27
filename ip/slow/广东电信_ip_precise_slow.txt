@@ -1,5 +1,4 @@
-# 20261127_1316_precise_slow
+# 20261127_2349_precise_slow
 # 服务器地址	速度	速度(KB/s)
-http://line1.huase.ltd:8888	496.46 KB/s	496.5
-http://www.yahao.host:4022	480.79 KB/s	480.8
-http://113.101.245.41:9988	311.39 KB/s	311.4
+http://www.yahao.host:4022	497.19 KB/s	497.2
+http://113.101.245.41:9988	361.98 KB/s	362.0
